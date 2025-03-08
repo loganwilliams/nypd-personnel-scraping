@@ -58,7 +58,8 @@ curl -s -L "$URL" -H 'Content-Type: application/json' --data-raw '[{"key":"@Sear
 }
 
 # Get file extension based on MIME type
-EXTENSION=$(get_file_extension "$TEMP_FILE")
+#EXTENSION=$(get_file_extension "$TEMP_FILE")
+EXTENSION=".json"
 
 # Always construct filename from the URL, replacing slashes with hyphens
 FILENAME=$(echo "$URL" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed 's|/$||' | sed 's|/|-|g')
