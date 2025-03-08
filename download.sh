@@ -38,7 +38,7 @@ if [ $# -ne 1 ]; then
   exit 1
 fi
 
-URL="https://nypdonline.org/api/reports/b805fa11-d5d2-43f7-8c23-1649f5d387f1/data"
+URL="$1"
 
 # Validate URL format (must start with http:// or https://)
 if [[ ! "$URL" =~ ^https?:// ]]; then
@@ -51,7 +51,7 @@ TEMP_FILE=$(mktemp)
 
 # Download the file
 echo "Downloading $URL"
-curl -s -L "$URL" --data-raw '[{"key":"@SearchName","values":[""]}]' -o "$TEMP_FILE" || {
+curl -s -L "$URL" -H 'Content-Type: application/json' --data-raw '[{"key":"@SearchName","values":[""]}]' -o "$TEMP_FILE" || {
   echo "Error: Failed to download $URL"
   rm -f "$TEMP_FILE"
   exit 1
