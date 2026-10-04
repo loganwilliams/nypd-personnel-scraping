@@ -4826,31 +4826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "951477",
-    "columns": [
-      {
-        "columnTemplate": "ACEVEDO, JOSE A                                                                                         ",
-        "value": "ACEVEDO, JOSE A                                                                                         "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "4804    "
-      },
-      {
-        "value": "1/9/2012 12:00:00 AM"
-      },
-      {
-        "value": "244"
-      },
-      {
-        "value": "5"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "964861",
     "columns": [
       {
@@ -4871,6 +4846,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "951477",
+    "columns": [
+      {
+        "columnTemplate": "ACEVEDO, JOSE A                                                                                         ",
+        "value": "ACEVEDO, JOSE A                                                                                         "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "4804    "
+      },
+      {
+        "value": "1/9/2012 12:00:00 AM"
+      },
+      {
+        "value": "244"
+      },
+      {
+        "value": "5"
       }
     ]
   },
@@ -10776,31 +10776,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "980345",
-    "columns": [
-      {
-        "columnTemplate": "AHMED, AHSAN                                                                                            ",
-        "value": "AHMED, AHSAN                                                                                            "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "2669    "
-      },
-      {
-        "value": "10/30/2024 12:00:00 AM"
-      },
-      {
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "977461",
     "columns": [
       {
@@ -10818,6 +10793,31 @@
       },
       {
         "value": "34"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "980345",
+    "columns": [
+      {
+        "columnTemplate": "AHMED, AHSAN                                                                                            ",
+        "value": "AHMED, AHSAN                                                                                            "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "2669    "
+      },
+      {
+        "value": "10/30/2024 12:00:00 AM"
+      },
+      {
+        "value": "2"
       },
       {
         "value": "0"
@@ -11876,31 +11876,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "967408",
-    "columns": [
-      {
-        "columnTemplate": "AHMED, MUHAMMED R                                                                                       ",
-        "value": "AHMED, MUHAMMED R                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "4585    "
-      },
-      {
-        "value": "4/15/2019 12:00:00 AM"
-      },
-      {
-        "value": "23"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "974705",
     "columns": [
       {
@@ -11921,6 +11896,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "967408",
+    "columns": [
+      {
+        "columnTemplate": "AHMED, MUHAMMED R                                                                                       ",
+        "value": "AHMED, MUHAMMED R                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "4585    "
+      },
+      {
+        "value": "4/15/2019 12:00:00 AM"
+      },
+      {
+        "value": "23"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -12751,31 +12751,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "974706",
-    "columns": [
-      {
-        "columnTemplate": "AHMED, ZAID M                                                                                           ",
-        "value": "AHMED, ZAID M                                                                                           "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "20195   "
-      },
-      {
-        "value": "7/13/2022 12:00:00 AM"
-      },
-      {
-        "value": "77"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "964866",
     "columns": [
       {
@@ -12793,6 +12768,31 @@
       },
       {
         "value": "46"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "974706",
+    "columns": [
+      {
+        "columnTemplate": "AHMED, ZAID M                                                                                           ",
+        "value": "AHMED, ZAID M                                                                                           "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "20195   "
+      },
+      {
+        "value": "7/13/2022 12:00:00 AM"
+      },
+      {
+        "value": "77"
       },
       {
         "value": "0"
@@ -20151,31 +20151,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "986296",
-    "columns": [
-      {
-        "columnTemplate": "ALI, ELIJAH                                                                                             ",
-        "value": "ALI, ELIJAH                                                                                             "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/22/2026 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "983997",
     "columns": [
       {
@@ -20193,6 +20168,31 @@
       },
       {
         "value": "6"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "986296",
+    "columns": [
+      {
+        "columnTemplate": "ALI, ELIJAH                                                                                             ",
+        "value": "ALI, ELIJAH                                                                                             "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/22/2026 12:00:00 AM"
+      },
+      {
+        "value": "0"
       },
       {
         "value": "0"
@@ -21226,31 +21226,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "952395",
-    "columns": [
-      {
-        "columnTemplate": "ALI, SYED M                                                                                             ",
-        "value": "ALI, SYED M                                                                                             "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/11/2012 12:00:00 AM"
-      },
-      {
-        "value": "34"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "976570",
     "columns": [
       {
@@ -21271,6 +21246,31 @@
       },
       {
         "value": "4"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "952395",
+    "columns": [
+      {
+        "columnTemplate": "ALI, SYED M                                                                                             ",
+        "value": "ALI, SYED M                                                                                             "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/11/2012 12:00:00 AM"
+      },
+      {
+        "value": "34"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -51226,31 +51226,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "955740",
-    "columns": [
-      {
-        "columnTemplate": "BAEZ, JONATHAN                                                                                          ",
-        "value": "BAEZ, JONATHAN                                                                                          "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "12619   "
-      },
-      {
-        "value": "1/8/2014 12:00:00 AM"
-      },
-      {
-        "value": "104"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "965942",
     "columns": [
       {
@@ -51271,6 +51246,31 @@
       },
       {
         "value": "29"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "955740",
+    "columns": [
+      {
+        "columnTemplate": "BAEZ, JONATHAN                                                                                          ",
+        "value": "BAEZ, JONATHAN                                                                                          "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "12619   "
+      },
+      {
+        "value": "1/8/2014 12:00:00 AM"
+      },
+      {
+        "value": "104"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -94326,31 +94326,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "926603",
-    "columns": [
-      {
-        "columnTemplate": "BROWN, ANDRE M                                                                                          ",
-        "value": "BROWN, ANDRE M                                                                                          "
-      },
-      {
-        "value": "DEPUTY CHIEF"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "9/29/2000 12:00:00 AM"
-      },
-      {
-        "value": "10"
-      },
-      {
-        "value": "9"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "966482",
     "columns": [
       {
@@ -94371,6 +94346,31 @@
       },
       {
         "value": "8"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "926603",
+    "columns": [
+      {
+        "columnTemplate": "BROWN, ANDRE M                                                                                          ",
+        "value": "BROWN, ANDRE M                                                                                          "
+      },
+      {
+        "value": "DEPUTY CHIEF"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "9/29/2000 12:00:00 AM"
+      },
+      {
+        "value": "10"
+      },
+      {
+        "value": "9"
       }
     ]
   },
@@ -101601,31 +101601,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "950130",
-    "columns": [
-      {
-        "columnTemplate": "BURKE, TIMOTHY J                                                                                        ",
-        "value": "BURKE, TIMOTHY J                                                                                        "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/6/2011 12:00:00 AM"
-      },
-      {
-        "value": "128"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "945536",
     "columns": [
       {
@@ -101646,6 +101621,31 @@
       },
       {
         "value": "15"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "950130",
+    "columns": [
+      {
+        "columnTemplate": "BURKE, TIMOTHY J                                                                                        ",
+        "value": "BURKE, TIMOTHY J                                                                                        "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/6/2011 12:00:00 AM"
+      },
+      {
+        "value": "128"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -107301,31 +107301,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "948731",
-    "columns": [
-      {
-        "columnTemplate": "CAHILL, KEVIN M                                                                                         ",
-        "value": "CAHILL, KEVIN M                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "8563    "
-      },
-      {
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "value": "69"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "952526",
     "columns": [
       {
@@ -107346,6 +107321,31 @@
       },
       {
         "value": "4"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "948731",
+    "columns": [
+      {
+        "columnTemplate": "CAHILL, KEVIN M                                                                                         ",
+        "value": "CAHILL, KEVIN M                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "8563    "
+      },
+      {
+        "value": "7/6/2010 12:00:00 AM"
+      },
+      {
+        "value": "69"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -134426,31 +134426,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "938209",
-    "columns": [
-      {
-        "columnTemplate": "CHAN, KEVIN                                                                                             ",
-        "value": "CHAN, KEVIN                                                                                             "
-      },
-      {
-        "value": "INSPECTOR"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/11/2005 12:00:00 AM"
-      },
-      {
-        "value": "40"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "960355",
     "columns": [
       {
@@ -134471,6 +134446,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "938209",
+    "columns": [
+      {
+        "columnTemplate": "CHAN, KEVIN                                                                                             ",
+        "value": "CHAN, KEVIN                                                                                             "
+      },
+      {
+        "value": "INSPECTOR"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/11/2005 12:00:00 AM"
+      },
+      {
+        "value": "40"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -138526,31 +138526,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "954635",
-    "columns": [
-      {
-        "columnTemplate": "CHEN, ALEX                                                                                              ",
-        "value": "CHEN, ALEX                                                                                              "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "47"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "965980",
     "columns": [
       {
@@ -138571,6 +138546,31 @@
       },
       {
         "value": "12"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "954635",
+    "columns": [
+      {
+        "columnTemplate": "CHEN, ALEX                                                                                              ",
+        "value": "CHEN, ALEX                                                                                              "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "47"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -139376,31 +139376,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "979101",
-    "columns": [
-      {
-        "columnTemplate": "CHEN, LONG                                                                                              ",
-        "value": "CHEN, LONG                                                                                              "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "30037   "
-      },
-      {
-        "value": "4/24/2024 12:00:00 AM"
-      },
-      {
-        "value": "4"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "964986",
     "columns": [
       {
@@ -139421,6 +139396,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "979101",
+    "columns": [
+      {
+        "columnTemplate": "CHEN, LONG                                                                                              ",
+        "value": "CHEN, LONG                                                                                              "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "30037   "
+      },
+      {
+        "value": "4/24/2024 12:00:00 AM"
+      },
+      {
+        "value": "4"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -154601,31 +154601,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "957475",
-    "columns": [
-      {
-        "columnTemplate": "COLLADO, EDWIN M                                                                                        ",
-        "value": "COLLADO, EDWIN M                                                                                        "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "261     "
-      },
-      {
-        "value": "1/7/2015 12:00:00 AM"
-      },
-      {
-        "value": "43"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "955829",
     "columns": [
       {
@@ -154643,6 +154618,31 @@
       },
       {
         "value": "63"
+      },
+      {
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "957475",
+    "columns": [
+      {
+        "columnTemplate": "COLLADO, EDWIN M                                                                                        ",
+        "value": "COLLADO, EDWIN M                                                                                        "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "261     "
+      },
+      {
+        "value": "1/7/2015 12:00:00 AM"
+      },
+      {
+        "value": "43"
       },
       {
         "value": "1"
@@ -173501,31 +173501,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "969029",
-    "columns": [
-      {
-        "columnTemplate": "CRUZ, GABRIEL                                                                                           ",
-        "value": "CRUZ, GABRIEL                                                                                           "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "24526   "
-      },
-      {
-        "value": "1/6/2020 12:00:00 AM"
-      },
-      {
-        "value": "6"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "929970",
     "columns": [
       {
@@ -173546,6 +173521,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "969029",
+    "columns": [
+      {
+        "columnTemplate": "CRUZ, GABRIEL                                                                                           ",
+        "value": "CRUZ, GABRIEL                                                                                           "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "24526   "
+      },
+      {
+        "value": "1/6/2020 12:00:00 AM"
+      },
+      {
+        "value": "6"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -174251,31 +174251,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "941601",
-    "columns": [
-      {
-        "columnTemplate": "CRUZ, LUIS A                                                                                            ",
-        "value": "CRUZ, LUIS A                                                                                            "
-      },
-      {
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "value": "5460    "
-      },
-      {
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "value": "442"
-      },
-      {
-        "value": "69"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "985388",
     "columns": [
       {
@@ -174296,6 +174271,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "941601",
+    "columns": [
+      {
+        "columnTemplate": "CRUZ, LUIS A                                                                                            ",
+        "value": "CRUZ, LUIS A                                                                                            "
+      },
+      {
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "value": "5460    "
+      },
+      {
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "value": "442"
+      },
+      {
+        "value": "69"
       }
     ]
   },
@@ -175201,31 +175201,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "957501",
-    "columns": [
-      {
-        "columnTemplate": "CRUZ, VICTOR J                                                                                          ",
-        "value": "CRUZ, VICTOR J                                                                                          "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "22651   "
-      },
-      {
-        "value": "1/7/2015 12:00:00 AM"
-      },
-      {
-        "value": "282"
-      },
-      {
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "941603",
     "columns": [
       {
@@ -175246,6 +175221,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "957501",
+    "columns": [
+      {
+        "columnTemplate": "CRUZ, VICTOR J                                                                                          ",
+        "value": "CRUZ, VICTOR J                                                                                          "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "22651   "
+      },
+      {
+        "value": "1/7/2015 12:00:00 AM"
+      },
+      {
+        "value": "282"
+      },
+      {
+        "value": "6"
       }
     ]
   },
@@ -204251,31 +204251,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "984241",
-    "columns": [
-      {
-        "columnTemplate": "DIALLO, MARIAMA                                                                                         ",
-        "value": "DIALLO, MARIAMA                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "5604    "
-      },
-      {
-        "value": "12/17/2025 12:00:00 AM"
-      },
-      {
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "966029",
     "columns": [
       {
@@ -204293,6 +204268,31 @@
       },
       {
         "value": "50"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "984241",
+    "columns": [
+      {
+        "columnTemplate": "DIALLO, MARIAMA                                                                                         ",
+        "value": "DIALLO, MARIAMA                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "5604    "
+      },
+      {
+        "value": "12/17/2025 12:00:00 AM"
+      },
+      {
+        "value": "2"
       },
       {
         "value": "0"
@@ -205076,31 +205076,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "963010",
-    "columns": [
-      {
-        "columnTemplate": "DIAZ, BRIAN                                                                                             ",
-        "value": "DIAZ, BRIAN                                                                                             "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "18840   "
-      },
-      {
-        "value": "1/4/2017 12:00:00 AM"
-      },
-      {
-        "value": "160"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "976637",
     "columns": [
       {
@@ -205118,6 +205093,31 @@
       },
       {
         "value": "21"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "963010",
+    "columns": [
+      {
+        "columnTemplate": "DIAZ, BRIAN                                                                                             ",
+        "value": "DIAZ, BRIAN                                                                                             "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "18840   "
+      },
+      {
+        "value": "1/4/2017 12:00:00 AM"
+      },
+      {
+        "value": "160"
       },
       {
         "value": "0"
@@ -205501,31 +205501,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "944258",
-    "columns": [
-      {
-        "columnTemplate": "DIAZ, CRYSTAL L                                                                                         ",
-        "value": "DIAZ, CRYSTAL L                                                                                         "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "438     "
-      },
-      {
-        "value": "7/9/2007 12:00:00 AM"
-      },
-      {
-        "value": "189"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "974061",
     "columns": [
       {
@@ -205546,6 +205521,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "944258",
+    "columns": [
+      {
+        "columnTemplate": "DIAZ, CRYSTAL L                                                                                         ",
+        "value": "DIAZ, CRYSTAL L                                                                                         "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "438     "
+      },
+      {
+        "value": "7/9/2007 12:00:00 AM"
+      },
+      {
+        "value": "189"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -206601,31 +206601,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "929606",
-    "columns": [
-      {
-        "columnTemplate": "DIAZ, JUAN C                                                                                            ",
-        "value": "DIAZ, JUAN C                                                                                            "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "3767    "
-      },
-      {
-        "value": "7/22/2002 12:00:00 AM"
-      },
-      {
-        "value": "30"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "973352",
     "columns": [
       {
@@ -206643,6 +206618,31 @@
       },
       {
         "value": "15"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "929606",
+    "columns": [
+      {
+        "columnTemplate": "DIAZ, JUAN C                                                                                            ",
+        "value": "DIAZ, JUAN C                                                                                            "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "3767    "
+      },
+      {
+        "value": "7/22/2002 12:00:00 AM"
+      },
+      {
+        "value": "30"
       },
       {
         "value": "0"
@@ -206901,31 +206901,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "986468",
-    "columns": [
-      {
-        "columnTemplate": "DIAZ, LUIS A                                                                                            ",
-        "value": "DIAZ, LUIS A                                                                                            "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/22/2026 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "950322",
     "columns": [
       {
@@ -206946,6 +206921,31 @@
       },
       {
         "value": "28"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "986468",
+    "columns": [
+      {
+        "columnTemplate": "DIAZ, LUIS A                                                                                            ",
+        "value": "DIAZ, LUIS A                                                                                            "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/22/2026 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -223826,31 +223826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "952700",
-    "columns": [
-      {
-        "columnTemplate": "DURAN, EDWIN                                                                                            ",
-        "value": "DURAN, EDWIN                                                                                            "
-      },
-      {
-        "value": "SGT DET SQUAD"
-      },
-      {
-        "value": "1656    "
-      },
-      {
-        "value": "7/11/2012 12:00:00 AM"
-      },
-      {
-        "value": "199"
-      },
-      {
-        "value": "74"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "953833",
     "columns": [
       {
@@ -223871,6 +223846,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "952700",
+    "columns": [
+      {
+        "columnTemplate": "DURAN, EDWIN                                                                                            ",
+        "value": "DURAN, EDWIN                                                                                            "
+      },
+      {
+        "value": "SGT DET SQUAD"
+      },
+      {
+        "value": "1656    "
+      },
+      {
+        "value": "7/11/2012 12:00:00 AM"
+      },
+      {
+        "value": "199"
+      },
+      {
+        "value": "74"
       }
     ]
   },
@@ -234551,31 +234551,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "941274",
-    "columns": [
-      {
-        "columnTemplate": "ESPINAL, FRANCISCO A                                                                                    ",
-        "value": "ESPINAL, FRANCISCO A                                                                                    "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "26832   "
-      },
-      {
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "value": "115"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "977879",
     "columns": [
       {
@@ -234596,6 +234571,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "941274",
+    "columns": [
+      {
+        "columnTemplate": "ESPINAL, FRANCISCO A                                                                                    ",
+        "value": "ESPINAL, FRANCISCO A                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "26832   "
+      },
+      {
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "value": "115"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -246151,31 +246151,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "966568",
-    "columns": [
-      {
-        "columnTemplate": "FELIZ, JOEL                                                                                             ",
-        "value": "FELIZ, JOEL                                                                                             "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "8876    "
-      },
-      {
-        "value": "10/24/2018 12:00:00 AM"
-      },
-      {
-        "value": "56"
-      },
-      {
-        "value": "17"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "962401",
     "columns": [
       {
@@ -246196,6 +246171,31 @@
       },
       {
         "value": "21"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "966568",
+    "columns": [
+      {
+        "columnTemplate": "FELIZ, JOEL                                                                                             ",
+        "value": "FELIZ, JOEL                                                                                             "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "8876    "
+      },
+      {
+        "value": "10/24/2018 12:00:00 AM"
+      },
+      {
+        "value": "56"
+      },
+      {
+        "value": "17"
       }
     ]
   },
@@ -274401,31 +274401,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "968423",
-    "columns": [
-      {
-        "columnTemplate": "GARCIA, ANDREW R                                                                                        ",
-        "value": "GARCIA, ANDREW R                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "23500   "
-      },
-      {
-        "value": "10/7/2019 12:00:00 AM"
-      },
-      {
-        "value": "45"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "976667",
     "columns": [
       {
@@ -274443,6 +274418,31 @@
       },
       {
         "value": "79"
+      },
+      {
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "968423",
+    "columns": [
+      {
+        "columnTemplate": "GARCIA, ANDREW R                                                                                        ",
+        "value": "GARCIA, ANDREW R                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "23500   "
+      },
+      {
+        "value": "10/7/2019 12:00:00 AM"
+      },
+      {
+        "value": "45"
       },
       {
         "value": "1"
@@ -275726,31 +275726,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "971065",
-    "columns": [
-      {
-        "columnTemplate": "GARCIA, FERNANDO                                                                                        ",
-        "value": "GARCIA, FERNANDO                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "25556   "
-      },
-      {
-        "value": "2/24/2021 12:00:00 AM"
-      },
-      {
-        "value": "57"
-      },
-      {
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "943272",
     "columns": [
       {
@@ -275771,6 +275746,31 @@
       },
       {
         "value": "5"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "971065",
+    "columns": [
+      {
+        "columnTemplate": "GARCIA, FERNANDO                                                                                        ",
+        "value": "GARCIA, FERNANDO                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "25556   "
+      },
+      {
+        "value": "2/24/2021 12:00:00 AM"
+      },
+      {
+        "value": "57"
+      },
+      {
+        "value": "6"
       }
     ]
   },
@@ -276376,31 +276376,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "953894",
-    "columns": [
-      {
-        "columnTemplate": "GARCIA, JENNIFER                                                                                        ",
-        "value": "GARCIA, JENNIFER                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "4897    "
-      },
-      {
-        "value": "1/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "27"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "968426",
     "columns": [
       {
@@ -276421,6 +276396,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "953894",
+    "columns": [
+      {
+        "columnTemplate": "GARCIA, JENNIFER                                                                                        ",
+        "value": "GARCIA, JENNIFER                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "4897    "
+      },
+      {
+        "value": "1/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "27"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -295301,31 +295301,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "943308",
-    "columns": [
-      {
-        "columnTemplate": "GOMEZ, JOSE A                                                                                           ",
-        "value": "GOMEZ, JOSE A                                                                                           "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "value": "369"
-      },
-      {
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "964528",
     "columns": [
       {
@@ -295346,6 +295321,31 @@
       },
       {
         "value": "55"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "943308",
+    "columns": [
+      {
+        "columnTemplate": "GOMEZ, JOSE A                                                                                           ",
+        "value": "GOMEZ, JOSE A                                                                                           "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "value": "369"
+      },
+      {
+        "value": "6"
       }
     ]
   },
@@ -297776,6 +297776,31 @@
   },
   {
     "filterKey": "@TAXID",
+    "filterRowValue": "975498",
+    "columns": [
+      {
+        "columnTemplate": "GONZALEZ, BRANDON L                                                                                     ",
+        "value": "GONZALEZ, BRANDON L                                                                                     "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "16945   "
+      },
+      {
+        "value": "10/19/2022 12:00:00 AM"
+      },
+      {
+        "value": "77"
+      },
+      {
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
     "filterRowValue": "969094",
     "columns": [
       {
@@ -297801,23 +297826,23 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "975498",
+    "filterRowValue": "932726",
     "columns": [
       {
-        "columnTemplate": "GONZALEZ, BRANDON L                                                                                     ",
-        "value": "GONZALEZ, BRANDON L                                                                                     "
+        "columnTemplate": "GONZALEZ, BRIAN                                                                                         ",
+        "value": "GONZALEZ, BRIAN                                                                                         "
       },
       {
-        "value": "POLICE OFFICER"
+        "value": "DETECTIVE 1ST GRADE"
       },
       {
-        "value": "16945   "
+        "value": "3746    "
       },
       {
-        "value": "10/19/2022 12:00:00 AM"
+        "value": "7/1/2003 12:00:00 AM"
       },
       {
-        "value": "77"
+        "value": "99"
       },
       {
         "value": "1"
@@ -297846,31 +297871,6 @@
       },
       {
         "value": "4"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "932726",
-    "columns": [
-      {
-        "columnTemplate": "GONZALEZ, BRIAN                                                                                         ",
-        "value": "GONZALEZ, BRIAN                                                                                         "
-      },
-      {
-        "value": "DETECTIVE 1ST GRADE"
-      },
-      {
-        "value": "3746    "
-      },
-      {
-        "value": "7/1/2003 12:00:00 AM"
-      },
-      {
-        "value": "99"
-      },
-      {
-        "value": "1"
       }
     ]
   },
@@ -298626,31 +298626,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "943747",
-    "columns": [
-      {
-        "columnTemplate": "GONZALEZ, ERIKA                                                                                         ",
-        "value": "GONZALEZ, ERIKA                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "26641   "
-      },
-      {
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "value": "176"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "970554",
     "columns": [
       {
@@ -298671,6 +298646,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "943747",
+    "columns": [
+      {
+        "columnTemplate": "GONZALEZ, ERIKA                                                                                         ",
+        "value": "GONZALEZ, ERIKA                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "26641   "
+      },
+      {
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "value": "176"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -299326,31 +299326,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "965146",
-    "columns": [
-      {
-        "columnTemplate": "GONZALEZ, JULIO C                                                                                       ",
-        "value": "GONZALEZ, JULIO C                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "30342   "
-      },
-      {
-        "value": "1/10/2018 12:00:00 AM"
-      },
-      {
-        "value": "15"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "928397",
     "columns": [
       {
@@ -299368,6 +299343,31 @@
       },
       {
         "value": "316"
+      },
+      {
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "965146",
+    "columns": [
+      {
+        "columnTemplate": "GONZALEZ, JULIO C                                                                                       ",
+        "value": "GONZALEZ, JULIO C                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "30342   "
+      },
+      {
+        "value": "1/10/2018 12:00:00 AM"
+      },
+      {
+        "value": "15"
       },
       {
         "value": "1"
@@ -299951,31 +299951,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "943313",
-    "columns": [
-      {
-        "columnTemplate": "GONZALEZ, MICHAEL                                                                                       ",
-        "value": "GONZALEZ, MICHAEL                                                                                       "
-      },
-      {
-        "value": "DETECTIVE 2ND GRADE"
-      },
-      {
-        "value": "5947    "
-      },
-      {
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "value": "1065"
-      },
-      {
-        "value": "127"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "943312",
     "columns": [
       {
@@ -299996,6 +299971,31 @@
       },
       {
         "value": "23"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "943313",
+    "columns": [
+      {
+        "columnTemplate": "GONZALEZ, MICHAEL                                                                                       ",
+        "value": "GONZALEZ, MICHAEL                                                                                       "
+      },
+      {
+        "value": "DETECTIVE 2ND GRADE"
+      },
+      {
+        "value": "5947    "
+      },
+      {
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "value": "1065"
+      },
+      {
+        "value": "127"
       }
     ]
   },
@@ -300076,31 +300076,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "959668",
-    "columns": [
-      {
-        "columnTemplate": "GONZALEZ, MIGUEL A                                                                                      ",
-        "value": "GONZALEZ, MIGUEL A                                                                                      "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "1503    "
-      },
-      {
-        "value": "10/7/2015 12:00:00 AM"
-      },
-      {
-        "value": "77"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "954883",
     "columns": [
       {
@@ -300146,6 +300121,31 @@
       },
       {
         "value": "3"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "959668",
+    "columns": [
+      {
+        "columnTemplate": "GONZALEZ, MIGUEL A                                                                                      ",
+        "value": "GONZALEZ, MIGUEL A                                                                                      "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "1503    "
+      },
+      {
+        "value": "10/7/2015 12:00:00 AM"
+      },
+      {
+        "value": "77"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -314826,31 +314826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "900369",
-    "columns": [
-      {
-        "columnTemplate": "GULOTTA, JOSEPH M                                                                                       ",
-        "value": "GULOTTA, JOSEPH M                                                                                       "
-      },
-      {
-        "value": "CHIEF OF TRANSIT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "1/13/1992 12:00:00 AM"
-      },
-      {
-        "value": "1"
-      },
-      {
-        "value": "40"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "977934",
     "columns": [
       {
@@ -314871,6 +314846,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "900369",
+    "columns": [
+      {
+        "columnTemplate": "GULOTTA, JOSEPH M                                                                                       ",
+        "value": "GULOTTA, JOSEPH M                                                                                       "
+      },
+      {
+        "value": "CHIEF OF TRANSIT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "1/13/1992 12:00:00 AM"
+      },
+      {
+        "value": "1"
+      },
+      {
+        "value": "40"
       }
     ]
   },
@@ -316026,26 +316026,26 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "980576",
+    "filterRowValue": "951799",
     "columns": [
       {
         "columnTemplate": "GUTIERREZ, CHRISTIAN                                                                                    ",
         "value": "GUTIERREZ, CHRISTIAN                                                                                    "
       },
       {
-        "value": "POLICE OFFICER"
+        "value": "SGT DET SQUAD"
       },
       {
-        "value": "10136   "
+        "value": "3464    "
       },
       {
-        "value": "10/30/2024 12:00:00 AM"
+        "value": "1/9/2012 12:00:00 AM"
       },
       {
-        "value": "12"
+        "value": "322"
       },
       {
-        "value": "0"
+        "value": "11"
       }
     ]
   },
@@ -316076,32 +316076,7 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "951799",
-    "columns": [
-      {
-        "columnTemplate": "GUTIERREZ, CHRISTIAN                                                                                    ",
-        "value": "GUTIERREZ, CHRISTIAN                                                                                    "
-      },
-      {
-        "value": "SGT DET SQUAD"
-      },
-      {
-        "value": "3464    "
-      },
-      {
-        "value": "1/9/2012 12:00:00 AM"
-      },
-      {
-        "value": "322"
-      },
-      {
-        "value": "11"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "971461",
+    "filterRowValue": "980576",
     "columns": [
       {
         "columnTemplate": "GUTIERREZ, CHRISTIAN                                                                                    ",
@@ -316111,16 +316086,16 @@
         "value": "POLICE OFFICER"
       },
       {
-        "value": "12409   "
+        "value": "10136   "
       },
       {
-        "value": "4/28/2021 12:00:00 AM"
+        "value": "10/30/2024 12:00:00 AM"
       },
       {
-        "value": "48"
+        "value": "12"
       },
       {
-        "value": "2"
+        "value": "0"
       }
     ]
   },
@@ -316143,6 +316118,31 @@
       },
       {
         "value": "132"
+      },
+      {
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "971461",
+    "columns": [
+      {
+        "columnTemplate": "GUTIERREZ, CHRISTIAN                                                                                    ",
+        "value": "GUTIERREZ, CHRISTIAN                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "12409   "
+      },
+      {
+        "value": "4/28/2021 12:00:00 AM"
+      },
+      {
+        "value": "48"
       },
       {
         "value": "2"
@@ -316626,31 +316626,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "949072",
-    "columns": [
-      {
-        "columnTemplate": "GUTIERREZ, LUIS A                                                                                       ",
-        "value": "GUTIERREZ, LUIS A                                                                                       "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "value": "131"
-      },
-      {
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "968466",
     "columns": [
       {
@@ -316671,6 +316646,31 @@
       },
       {
         "value": "10"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "949072",
+    "columns": [
+      {
+        "columnTemplate": "GUTIERREZ, LUIS A                                                                                       ",
+        "value": "GUTIERREZ, LUIS A                                                                                       "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/6/2010 12:00:00 AM"
+      },
+      {
+        "value": "131"
+      },
+      {
+        "value": "3"
       }
     ]
   },
@@ -325951,31 +325951,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "949088",
-    "columns": [
-      {
-        "columnTemplate": "HARRIS, CHRISTOPHER G                                                                                   ",
-        "value": "HARRIS, CHRISTOPHER G                                                                                   "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "11876   "
-      },
-      {
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "value": "97"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "943353",
     "columns": [
       {
@@ -325996,6 +325971,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "949088",
+    "columns": [
+      {
+        "columnTemplate": "HARRIS, CHRISTOPHER G                                                                                   ",
+        "value": "HARRIS, CHRISTOPHER G                                                                                   "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "11876   "
+      },
+      {
+        "value": "7/6/2010 12:00:00 AM"
+      },
+      {
+        "value": "97"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -327801,31 +327801,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "986565",
-    "columns": [
-      {
-        "columnTemplate": "HASAN, MEHEDI                                                                                           ",
-        "value": "HASAN, MEHEDI                                                                                           "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/22/2026 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "984407",
     "columns": [
       {
@@ -327843,6 +327818,31 @@
       },
       {
         "value": "1"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "986565",
+    "columns": [
+      {
+        "columnTemplate": "HASAN, MEHEDI                                                                                           ",
+        "value": "HASAN, MEHEDI                                                                                           "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/22/2026 12:00:00 AM"
+      },
+      {
+        "value": "0"
       },
       {
         "value": "0"
@@ -328476,31 +328476,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "946623",
-    "columns": [
-      {
-        "columnTemplate": "HASSAN, ALI                                                                                             ",
-        "value": "HASSAN, ALI                                                                                             "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "4773    "
-      },
-      {
-        "value": "7/8/2008 12:00:00 AM"
-      },
-      {
-        "value": "172"
-      },
-      {
-        "value": "10"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "960642",
     "columns": [
       {
@@ -328521,6 +328496,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "946623",
+    "columns": [
+      {
+        "columnTemplate": "HASSAN, ALI                                                                                             ",
+        "value": "HASSAN, ALI                                                                                             "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "4773    "
+      },
+      {
+        "value": "7/8/2008 12:00:00 AM"
+      },
+      {
+        "value": "172"
+      },
+      {
+        "value": "10"
       }
     ]
   },
@@ -336451,31 +336451,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "976708",
-    "columns": [
-      {
-        "columnTemplate": "HERNANDEZ, JOSHUA J                                                                                     ",
-        "value": "HERNANDEZ, JOSHUA J                                                                                     "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "26885   "
-      },
-      {
-        "value": "4/26/2023 12:00:00 AM"
-      },
-      {
-        "value": "63"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "975533",
     "columns": [
       {
@@ -336496,6 +336471,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "976708",
+    "columns": [
+      {
+        "columnTemplate": "HERNANDEZ, JOSHUA J                                                                                     ",
+        "value": "HERNANDEZ, JOSHUA J                                                                                     "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "26885   "
+      },
+      {
+        "value": "4/26/2023 12:00:00 AM"
+      },
+      {
+        "value": "63"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -337076,31 +337076,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "966621",
-    "columns": [
-      {
-        "columnTemplate": "HERNANDEZ, MICHAEL A                                                                                    ",
-        "value": "HERNANDEZ, MICHAEL A                                                                                    "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "3966    "
-      },
-      {
-        "value": "10/24/2018 12:00:00 AM"
-      },
-      {
-        "value": "142"
-      },
-      {
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "983303",
     "columns": [
       {
@@ -337121,6 +337096,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "966621",
+    "columns": [
+      {
+        "columnTemplate": "HERNANDEZ, MICHAEL A                                                                                    ",
+        "value": "HERNANDEZ, MICHAEL A                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "3966    "
+      },
+      {
+        "value": "10/24/2018 12:00:00 AM"
+      },
+      {
+        "value": "142"
+      },
+      {
+        "value": "6"
       }
     ]
   },
@@ -346426,31 +346426,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "952858",
-    "columns": [
-      {
-        "columnTemplate": "HOM, NICHOLAS                                                                                           ",
-        "value": "HOM, NICHOLAS                                                                                           "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "4181    "
-      },
-      {
-        "value": "7/11/2012 12:00:00 AM"
-      },
-      {
-        "value": "81"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "951826",
     "columns": [
       {
@@ -346471,6 +346446,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "952858",
+    "columns": [
+      {
+        "columnTemplate": "HOM, NICHOLAS                                                                                           ",
+        "value": "HOM, NICHOLAS                                                                                           "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "4181    "
+      },
+      {
+        "value": "7/11/2012 12:00:00 AM"
+      },
+      {
+        "value": "81"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -348526,31 +348526,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "960680",
-    "columns": [
-      {
-        "columnTemplate": "HOSSAIN, MOHAMMAD S                                                                                     ",
-        "value": "HOSSAIN, MOHAMMAD S                                                                                     "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "2679    "
-      },
-      {
-        "value": "1/6/2016 12:00:00 AM"
-      },
-      {
-        "value": "31"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "974195",
     "columns": [
       {
@@ -348568,6 +348543,31 @@
       },
       {
         "value": "24"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "960680",
+    "columns": [
+      {
+        "columnTemplate": "HOSSAIN, MOHAMMAD S                                                                                     ",
+        "value": "HOSSAIN, MOHAMMAD S                                                                                     "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "2679    "
+      },
+      {
+        "value": "1/6/2016 12:00:00 AM"
+      },
+      {
+        "value": "31"
       },
       {
         "value": "0"
@@ -361626,31 +361626,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "982368",
-    "columns": [
-      {
-        "columnTemplate": "ISLAM, ARIFUL                                                                                           ",
-        "value": "ISLAM, ARIFUL                                                                                           "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "929     "
-      },
-      {
-        "value": "4/30/2025 12:00:00 AM"
-      },
-      {
-        "value": "9"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "985649",
     "columns": [
       {
@@ -361668,6 +361643,31 @@
       },
       {
         "value": "0"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "982368",
+    "columns": [
+      {
+        "columnTemplate": "ISLAM, ARIFUL                                                                                           ",
+        "value": "ISLAM, ARIFUL                                                                                           "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "929     "
+      },
+      {
+        "value": "4/30/2025 12:00:00 AM"
+      },
+      {
+        "value": "9"
       },
       {
         "value": "0"
@@ -362201,7 +362201,7 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "968504",
+    "filterRowValue": "977196",
     "columns": [
       {
         "columnTemplate": "ISLAM, MD R                                                                                             ",
@@ -362211,16 +362211,16 @@
         "value": "POLICE OFFICER"
       },
       {
-        "value": "26195   "
+        "value": "23967   "
       },
       {
-        "value": "10/7/2019 12:00:00 AM"
+        "value": "7/5/2023 12:00:00 AM"
       },
       {
-        "value": "102"
+        "value": "33"
       },
       {
-        "value": "1"
+        "value": "0"
       }
     ]
   },
@@ -362251,7 +362251,7 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "977196",
+    "filterRowValue": "968504",
     "columns": [
       {
         "columnTemplate": "ISLAM, MD R                                                                                             ",
@@ -362261,16 +362261,16 @@
         "value": "POLICE OFFICER"
       },
       {
-        "value": "23967   "
+        "value": "26195   "
       },
       {
-        "value": "7/5/2023 12:00:00 AM"
+        "value": "10/7/2019 12:00:00 AM"
       },
       {
-        "value": "33"
+        "value": "102"
       },
       {
-        "value": "0"
+        "value": "1"
       }
     ]
   },
@@ -362526,31 +362526,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "926981",
-    "columns": [
-      {
-        "columnTemplate": "ISLAM, MOHAMMAD M                                                                                       ",
-        "value": "ISLAM, MOHAMMAD M                                                                                       "
-      },
-      {
-        "value": "DETECTIVE 2ND GRADE"
-      },
-      {
-        "value": "1368    "
-      },
-      {
-        "value": "9/29/2000 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "983331",
     "columns": [
       {
@@ -362568,6 +362543,31 @@
       },
       {
         "value": "14"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "926981",
+    "columns": [
+      {
+        "columnTemplate": "ISLAM, MOHAMMAD M                                                                                       ",
+        "value": "ISLAM, MOHAMMAD M                                                                                       "
+      },
+      {
+        "value": "DETECTIVE 2ND GRADE"
+      },
+      {
+        "value": "1368    "
+      },
+      {
+        "value": "9/29/2000 12:00:00 AM"
+      },
+      {
+        "value": "0"
       },
       {
         "value": "0"
@@ -362601,31 +362601,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "980617",
-    "columns": [
-      {
-        "columnTemplate": "ISLAM, MOHAMMAD S                                                                                       ",
-        "value": "ISLAM, MOHAMMAD S                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "3460    "
-      },
-      {
-        "value": "10/30/2024 12:00:00 AM"
-      },
-      {
-        "value": "25"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "956766",
     "columns": [
       {
@@ -362643,6 +362618,31 @@
       },
       {
         "value": "42"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "980617",
+    "columns": [
+      {
+        "columnTemplate": "ISLAM, MOHAMMAD S                                                                                       ",
+        "value": "ISLAM, MOHAMMAD S                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "3460    "
+      },
+      {
+        "value": "10/30/2024 12:00:00 AM"
+      },
+      {
+        "value": "25"
       },
       {
         "value": "0"
@@ -377326,31 +377326,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "950643",
-    "columns": [
-      {
-        "columnTemplate": "JOHNSON, JARVIS N                                                                                       ",
-        "value": "JOHNSON, JARVIS N                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "15053   "
-      },
-      {
-        "value": "7/6/2011 12:00:00 AM"
-      },
-      {
-        "value": "66"
-      },
-      {
-        "value": "7"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "976203",
     "columns": [
       {
@@ -377368,6 +377343,31 @@
       },
       {
         "value": "237"
+      },
+      {
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "950643",
+    "columns": [
+      {
+        "columnTemplate": "JOHNSON, JARVIS N                                                                                       ",
+        "value": "JOHNSON, JARVIS N                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "15053   "
+      },
+      {
+        "value": "7/6/2011 12:00:00 AM"
+      },
+      {
+        "value": "66"
       },
       {
         "value": "7"
@@ -389876,31 +389876,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "967565",
-    "columns": [
-      {
-        "columnTemplate": "KAUR, AMANDEEP                                                                                          ",
-        "value": "KAUR, AMANDEEP                                                                                          "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "3847    "
-      },
-      {
-        "value": "4/15/2019 12:00:00 AM"
-      },
-      {
-        "value": "118"
-      },
-      {
-        "value": "14"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "941989",
     "columns": [
       {
@@ -389921,6 +389896,31 @@
       },
       {
         "value": "4"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "967565",
+    "columns": [
+      {
+        "columnTemplate": "KAUR, AMANDEEP                                                                                          ",
+        "value": "KAUR, AMANDEEP                                                                                          "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "3847    "
+      },
+      {
+        "value": "4/15/2019 12:00:00 AM"
+      },
+      {
+        "value": "118"
+      },
+      {
+        "value": "14"
       }
     ]
   },
@@ -392326,31 +392326,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "947737",
-    "columns": [
-      {
-        "columnTemplate": "KELLY, BRIAN P                                                                                          ",
-        "value": "KELLY, BRIAN P                                                                                          "
-      },
-      {
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "value": "5710    "
-      },
-      {
-        "value": "7/22/2008 12:00:00 AM"
-      },
-      {
-        "value": "93"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "949159",
     "columns": [
       {
@@ -392371,6 +392346,31 @@
       },
       {
         "value": "3"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "947737",
+    "columns": [
+      {
+        "columnTemplate": "KELLY, BRIAN P                                                                                          ",
+        "value": "KELLY, BRIAN P                                                                                          "
+      },
+      {
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "value": "5710    "
+      },
+      {
+        "value": "7/22/2008 12:00:00 AM"
+      },
+      {
+        "value": "93"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -393101,31 +393101,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "936855",
-    "columns": [
-      {
-        "columnTemplate": "KELLY, WILLIAM J                                                                                        ",
-        "value": "KELLY, WILLIAM J                                                                                        "
-      },
-      {
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "value": "5349    "
-      },
-      {
-        "value": "1/10/2005 12:00:00 AM"
-      },
-      {
-        "value": "259"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "947128",
     "columns": [
       {
@@ -393146,6 +393121,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "936855",
+    "columns": [
+      {
+        "columnTemplate": "KELLY, WILLIAM J                                                                                        ",
+        "value": "KELLY, WILLIAM J                                                                                        "
+      },
+      {
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "value": "5349    "
+      },
+      {
+        "value": "1/10/2005 12:00:00 AM"
+      },
+      {
+        "value": "259"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -396176,31 +396176,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "983389",
-    "columns": [
-      {
-        "columnTemplate": "KHAN, FAWAD                                                                                             ",
-        "value": "KHAN, FAWAD                                                                                             "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "19920   "
-      },
-      {
-        "value": "8/20/2025 12:00:00 AM"
-      },
-      {
-        "value": "7"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "961858",
     "columns": [
       {
@@ -396221,6 +396196,31 @@
       },
       {
         "value": "4"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "983389",
+    "columns": [
+      {
+        "columnTemplate": "KHAN, FAWAD                                                                                             ",
+        "value": "KHAN, FAWAD                                                                                             "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "19920   "
+      },
+      {
+        "value": "8/20/2025 12:00:00 AM"
+      },
+      {
+        "value": "7"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -399126,31 +399126,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "973110",
-    "columns": [
-      {
-        "columnTemplate": "KIM, BRYAN                                                                                              ",
-        "value": "KIM, BRYAN                                                                                              "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "457     "
-      },
-      {
-        "value": "10/15/2021 12:00:00 AM"
-      },
-      {
-        "value": "109"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "950681",
     "columns": [
       {
@@ -399171,6 +399146,31 @@
       },
       {
         "value": "32"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "973110",
+    "columns": [
+      {
+        "columnTemplate": "KIM, BRYAN                                                                                              ",
+        "value": "KIM, BRYAN                                                                                              "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "457     "
+      },
+      {
+        "value": "10/15/2021 12:00:00 AM"
+      },
+      {
+        "value": "109"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -399226,6 +399226,31 @@
   },
   {
     "filterKey": "@TAXID",
+    "filterRowValue": "952932",
+    "columns": [
+      {
+        "columnTemplate": "KIM, DANIEL                                                                                             ",
+        "value": "KIM, DANIEL                                                                                             "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "15512   "
+      },
+      {
+        "value": "7/11/2012 12:00:00 AM"
+      },
+      {
+        "value": "60"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
     "filterRowValue": "950682",
     "columns": [
       {
@@ -399251,23 +399276,23 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "952932",
+    "filterRowValue": "974241",
     "columns": [
       {
-        "columnTemplate": "KIM, DANIEL                                                                                             ",
-        "value": "KIM, DANIEL                                                                                             "
+        "columnTemplate": "KIM, DANIEL H                                                                                           ",
+        "value": "KIM, DANIEL H                                                                                           "
       },
       {
         "value": "POLICE OFFICER"
       },
       {
-        "value": "15512   "
+        "value": "6545    "
       },
       {
-        "value": "7/11/2012 12:00:00 AM"
+        "value": "4/13/2022 12:00:00 AM"
       },
       {
-        "value": "60"
+        "value": "22"
       },
       {
         "value": "0"
@@ -399301,26 +399326,26 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "974241",
+    "filterRowValue": "966136",
     "columns": [
       {
-        "columnTemplate": "KIM, DANIEL H                                                                                           ",
-        "value": "KIM, DANIEL H                                                                                           "
+        "columnTemplate": "KIM, DAVID                                                                                              ",
+        "value": "KIM, DAVID                                                                                              "
       },
       {
         "value": "POLICE OFFICER"
       },
       {
-        "value": "6545    "
+        "value": "9742    "
       },
       {
-        "value": "4/13/2022 12:00:00 AM"
+        "value": "7/2/2018 12:00:00 AM"
       },
       {
-        "value": "22"
+        "value": "136"
       },
       {
-        "value": "0"
+        "value": "4"
       }
     ]
   },
@@ -399346,31 +399371,6 @@
       },
       {
         "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "966136",
-    "columns": [
-      {
-        "columnTemplate": "KIM, DAVID                                                                                              ",
-        "value": "KIM, DAVID                                                                                              "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "9742    "
-      },
-      {
-        "value": "7/2/2018 12:00:00 AM"
-      },
-      {
-        "value": "136"
-      },
-      {
-        "value": "4"
       }
     ]
   },
@@ -424801,31 +424801,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "971523",
-    "columns": [
-      {
-        "columnTemplate": "LEE, RICHARD                                                                                            ",
-        "value": "LEE, RICHARD                                                                                            "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "14944   "
-      },
-      {
-        "value": "4/28/2021 12:00:00 AM"
-      },
-      {
-        "value": "39"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "963112",
     "columns": [
       {
@@ -424846,6 +424821,31 @@
       },
       {
         "value": "31"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "971523",
+    "columns": [
+      {
+        "columnTemplate": "LEE, RICHARD                                                                                            ",
+        "value": "LEE, RICHARD                                                                                            "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "14944   "
+      },
+      {
+        "value": "4/28/2021 12:00:00 AM"
+      },
+      {
+        "value": "39"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -441851,31 +441851,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "982442",
-    "columns": [
-      {
-        "columnTemplate": "LOPEZ, CHRISTIAN A                                                                                      ",
-        "value": "LOPEZ, CHRISTIAN A                                                                                      "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "21084   "
-      },
-      {
-        "value": "4/30/2025 12:00:00 AM"
-      },
-      {
-        "value": "8"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "955083",
     "columns": [
       {
@@ -441896,6 +441871,31 @@
       },
       {
         "value": "39"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "982442",
+    "columns": [
+      {
+        "columnTemplate": "LOPEZ, CHRISTIAN A                                                                                      ",
+        "value": "LOPEZ, CHRISTIAN A                                                                                      "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "21084   "
+      },
+      {
+        "value": "4/30/2025 12:00:00 AM"
+      },
+      {
+        "value": "8"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -443401,31 +443401,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "949219",
-    "columns": [
-      {
-        "columnTemplate": "LOPEZ, JUAN A                                                                                           ",
-        "value": "LOPEZ, JUAN A                                                                                           "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "5273    "
-      },
-      {
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "value": "47"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "966675",
     "columns": [
       {
@@ -443451,26 +443426,26 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "944744",
+    "filterRowValue": "949219",
     "columns": [
       {
-        "columnTemplate": "LOPEZ, JUAN F                                                                                           ",
-        "value": "LOPEZ, JUAN F                                                                                           "
+        "columnTemplate": "LOPEZ, JUAN A                                                                                           ",
+        "value": "LOPEZ, JUAN A                                                                                           "
       },
       {
         "value": "POLICE OFFICER"
       },
       {
-        "value": "14535   "
+        "value": "5273    "
       },
       {
-        "value": "7/9/2007 12:00:00 AM"
+        "value": "7/6/2010 12:00:00 AM"
       },
       {
-        "value": "68"
+        "value": "47"
       },
       {
-        "value": "2"
+        "value": "0"
       }
     ]
   },
@@ -443496,6 +443471,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "944744",
+    "columns": [
+      {
+        "columnTemplate": "LOPEZ, JUAN F                                                                                           ",
+        "value": "LOPEZ, JUAN F                                                                                           "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "14535   "
+      },
+      {
+        "value": "7/9/2007 12:00:00 AM"
+      },
+      {
+        "value": "68"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -456651,31 +456651,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "950802",
-    "columns": [
-      {
-        "columnTemplate": "MAHER, PATRICK J                                                                                        ",
-        "value": "MAHER, PATRICK J                                                                                        "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "7/6/2011 12:00:00 AM"
-      },
-      {
-        "value": "92"
-      },
-      {
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "955114",
     "columns": [
       {
@@ -456696,6 +456671,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "950802",
+    "columns": [
+      {
+        "columnTemplate": "MAHER, PATRICK J                                                                                        ",
+        "value": "MAHER, PATRICK J                                                                                        "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "7/6/2011 12:00:00 AM"
+      },
+      {
+        "value": "92"
+      },
+      {
+        "value": "6"
       }
     ]
   },
@@ -460376,31 +460376,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "972763",
-    "columns": [
-      {
-        "columnTemplate": "MALIK, BILAL A                                                                                          ",
-        "value": "MALIK, BILAL A                                                                                          "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "5735    "
-      },
-      {
-        "value": "10/12/2021 12:00:00 AM"
-      },
-      {
-        "value": "199"
-      },
-      {
-        "value": "5"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "981538",
     "columns": [
       {
@@ -460421,6 +460396,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "972763",
+    "columns": [
+      {
+        "columnTemplate": "MALIK, BILAL A                                                                                          ",
+        "value": "MALIK, BILAL A                                                                                          "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "5735    "
+      },
+      {
+        "value": "10/12/2021 12:00:00 AM"
+      },
+      {
+        "value": "199"
+      },
+      {
+        "value": "5"
       }
     ]
   },
@@ -461326,31 +461326,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "901894",
-    "columns": [
-      {
-        "columnTemplate": "MALONEY, THOMAS J                                                                                       ",
-        "value": "MALONEY, THOMAS J                                                                                       "
-      },
-      {
-        "value": "CAPTAIN"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "6/30/1992 12:00:00 AM"
-      },
-      {
-        "value": "1"
-      },
-      {
-        "value": "8"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "955121",
     "columns": [
       {
@@ -461371,6 +461346,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "901894",
+    "columns": [
+      {
+        "columnTemplate": "MALONEY, THOMAS J                                                                                       ",
+        "value": "MALONEY, THOMAS J                                                                                       "
+      },
+      {
+        "value": "CAPTAIN"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "6/30/1992 12:00:00 AM"
+      },
+      {
+        "value": "1"
+      },
+      {
+        "value": "8"
       }
     ]
   },
@@ -463651,31 +463651,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "956877",
-    "columns": [
-      {
-        "columnTemplate": "MANNINO, SALVATORE                                                                                      ",
-        "value": "MANNINO, SALVATORE                                                                                      "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "842     "
-      },
-      {
-        "value": "7/9/2014 12:00:00 AM"
-      },
-      {
-        "value": "345"
-      },
-      {
-        "value": "7"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "937015",
     "columns": [
       {
@@ -463696,6 +463671,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "956877",
+    "columns": [
+      {
+        "columnTemplate": "MANNINO, SALVATORE                                                                                      ",
+        "value": "MANNINO, SALVATORE                                                                                      "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "842     "
+      },
+      {
+        "value": "7/9/2014 12:00:00 AM"
+      },
+      {
+        "value": "345"
+      },
+      {
+        "value": "7"
       }
     ]
   },
@@ -473126,31 +473126,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "956889",
-    "columns": [
-      {
-        "columnTemplate": "MARTINEZ, CHRISTIAN M                                                                                   ",
-        "value": "MARTINEZ, CHRISTIAN M                                                                                   "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "3880    "
-      },
-      {
-        "value": "7/9/2014 12:00:00 AM"
-      },
-      {
-        "value": "121"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "964141",
     "columns": [
       {
@@ -473168,6 +473143,31 @@
       },
       {
         "value": "49"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "956889",
+    "columns": [
+      {
+        "columnTemplate": "MARTINEZ, CHRISTIAN M                                                                                   ",
+        "value": "MARTINEZ, CHRISTIAN M                                                                                   "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "3880    "
+      },
+      {
+        "value": "7/9/2014 12:00:00 AM"
+      },
+      {
+        "value": "121"
       },
       {
         "value": "0"
@@ -473251,31 +473251,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "979325",
-    "columns": [
-      {
-        "columnTemplate": "MARTINEZ, DANIEL                                                                                        ",
-        "value": "MARTINEZ, DANIEL                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "5719    "
-      },
-      {
-        "value": "4/24/2024 12:00:00 AM"
-      },
-      {
-        "value": "60"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "983483",
     "columns": [
       {
@@ -473293,6 +473268,31 @@
       },
       {
         "value": "11"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "979325",
+    "columns": [
+      {
+        "columnTemplate": "MARTINEZ, DANIEL                                                                                        ",
+        "value": "MARTINEZ, DANIEL                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "5719    "
+      },
+      {
+        "value": "4/24/2024 12:00:00 AM"
+      },
+      {
+        "value": "60"
       },
       {
         "value": "0"
@@ -474876,31 +474876,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "948090",
-    "columns": [
-      {
-        "columnTemplate": "MARTINEZ, JOSE A                                                                                        ",
-        "value": "MARTINEZ, JOSE A                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "2139    "
-      },
-      {
-        "value": "1/14/2009 12:00:00 AM"
-      },
-      {
-        "value": "74"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "978046",
     "columns": [
       {
@@ -474921,6 +474896,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "948090",
+    "columns": [
+      {
+        "columnTemplate": "MARTINEZ, JOSE A                                                                                        ",
+        "value": "MARTINEZ, JOSE A                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "2139    "
+      },
+      {
+        "value": "1/14/2009 12:00:00 AM"
+      },
+      {
+        "value": "74"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -475226,31 +475226,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "969948",
-    "columns": [
-      {
-        "columnTemplate": "MARTINEZ, JUSTIN J                                                                                      ",
-        "value": "MARTINEZ, JUSTIN J                                                                                      "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "22692   "
-      },
-      {
-        "value": "11/2/2020 12:00:00 AM"
-      },
-      {
-        "value": "66"
-      },
-      {
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "984603",
     "columns": [
       {
@@ -475271,6 +475246,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "969948",
+    "columns": [
+      {
+        "columnTemplate": "MARTINEZ, JUSTIN J                                                                                      ",
+        "value": "MARTINEZ, JUSTIN J                                                                                      "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "22692   "
+      },
+      {
+        "value": "11/2/2020 12:00:00 AM"
+      },
+      {
+        "value": "66"
+      },
+      {
+        "value": "3"
       }
     ]
   },
@@ -475826,31 +475826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "943531",
-    "columns": [
-      {
-        "columnTemplate": "MARTINEZ, MIGUEL A                                                                                      ",
-        "value": "MARTINEZ, MIGUEL A                                                                                      "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "936     "
-      },
-      {
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "value": "89"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "979642",
     "columns": [
       {
@@ -475871,6 +475846,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "943531",
+    "columns": [
+      {
+        "columnTemplate": "MARTINEZ, MIGUEL A                                                                                      ",
+        "value": "MARTINEZ, MIGUEL A                                                                                      "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "936     "
+      },
+      {
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "value": "89"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -487376,26 +487376,26 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "950855",
+    "filterRowValue": "975650",
     "columns": [
       {
         "columnTemplate": "MCCARTHY, MICHAEL J                                                                                     ",
         "value": "MCCARTHY, MICHAEL J                                                                                     "
       },
       {
-        "value": "DETECTIVE 3RD GRADE"
+        "value": "POLICE OFFICER"
       },
       {
-        "value": "6817    "
+        "value": "2199    "
       },
       {
-        "value": "7/6/2011 12:00:00 AM"
+        "value": "10/19/2022 12:00:00 AM"
       },
       {
-        "value": "214"
+        "value": "41"
       },
       {
-        "value": "33"
+        "value": "0"
       }
     ]
   },
@@ -487426,26 +487426,26 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "975650",
+    "filterRowValue": "950855",
     "columns": [
       {
         "columnTemplate": "MCCARTHY, MICHAEL J                                                                                     ",
         "value": "MCCARTHY, MICHAEL J                                                                                     "
       },
       {
-        "value": "POLICE OFFICER"
+        "value": "DETECTIVE 3RD GRADE"
       },
       {
-        "value": "2199    "
+        "value": "6817    "
       },
       {
-        "value": "10/19/2022 12:00:00 AM"
+        "value": "7/6/2011 12:00:00 AM"
       },
       {
-        "value": "41"
+        "value": "214"
       },
       {
-        "value": "0"
+        "value": "33"
       }
     ]
   },
@@ -493751,31 +493751,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "959808",
-    "columns": [
-      {
-        "columnTemplate": "MCLAUGHLIN, CHRISTOPHER E                                                                               ",
-        "value": "MCLAUGHLIN, CHRISTOPHER E                                                                               "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "2585    "
-      },
-      {
-        "value": "10/7/2015 12:00:00 AM"
-      },
-      {
-        "value": "226"
-      },
-      {
-        "value": "14"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "949308",
     "columns": [
       {
@@ -493796,6 +493771,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "959808",
+    "columns": [
+      {
+        "columnTemplate": "MCLAUGHLIN, CHRISTOPHER E                                                                               ",
+        "value": "MCLAUGHLIN, CHRISTOPHER E                                                                               "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "2585    "
+      },
+      {
+        "value": "10/7/2015 12:00:00 AM"
+      },
+      {
+        "value": "226"
+      },
+      {
+        "value": "14"
       }
     ]
   },
@@ -546726,31 +546726,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "949392",
-    "columns": [
-      {
-        "columnTemplate": "NG, STANLEY                                                                                             ",
-        "value": "NG, STANLEY                                                                                             "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "4496    "
-      },
-      {
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "value": "104"
-      },
-      {
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "981647",
     "columns": [
       {
@@ -546771,6 +546746,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "949392",
+    "columns": [
+      {
+        "columnTemplate": "NG, STANLEY                                                                                             ",
+        "value": "NG, STANLEY                                                                                             "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "4496    "
+      },
+      {
+        "value": "7/6/2010 12:00:00 AM"
+      },
+      {
+        "value": "104"
+      },
+      {
+        "value": "3"
       }
     ]
   },
@@ -548751,31 +548751,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "949397",
-    "columns": [
-      {
-        "columnTemplate": "NIEVES, OSCAR                                                                                           ",
-        "value": "NIEVES, OSCAR                                                                                           "
-      },
-      {
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "value": "5555    "
-      },
-      {
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "value": "70"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "950953",
     "columns": [
       {
@@ -548796,6 +548771,31 @@
       },
       {
         "value": "7"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "949397",
+    "columns": [
+      {
+        "columnTemplate": "NIEVES, OSCAR                                                                                           ",
+        "value": "NIEVES, OSCAR                                                                                           "
+      },
+      {
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "value": "5555    "
+      },
+      {
+        "value": "7/6/2010 12:00:00 AM"
+      },
+      {
+        "value": "70"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -572501,31 +572501,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "959868",
-    "columns": [
-      {
-        "columnTemplate": "PADILLA, KEVIN                                                                                          ",
-        "value": "PADILLA, KEVIN                                                                                          "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "3023    "
-      },
-      {
-        "value": "10/7/2015 12:00:00 AM"
-      },
-      {
-        "value": "216"
-      },
-      {
-        "value": "52"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "942311",
     "columns": [
       {
@@ -572546,6 +572521,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "959868",
+    "columns": [
+      {
+        "columnTemplate": "PADILLA, KEVIN                                                                                          ",
+        "value": "PADILLA, KEVIN                                                                                          "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "3023    "
+      },
+      {
+        "value": "10/7/2015 12:00:00 AM"
+      },
+      {
+        "value": "216"
+      },
+      {
+        "value": "52"
       }
     ]
   },
@@ -591801,31 +591801,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "927717",
-    "columns": [
-      {
-        "columnTemplate": "PEREZ, EDWIN                                                                                            ",
-        "value": "PEREZ, EDWIN                                                                                            "
-      },
-      {
-        "value": "SGT DET SQUAD"
-      },
-      {
-        "value": "4039    "
-      },
-      {
-        "value": "10/10/2000 12:00:00 AM"
-      },
-      {
-        "value": "684"
-      },
-      {
-        "value": "7"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "939206",
     "columns": [
       {
@@ -591846,6 +591821,31 @@
       },
       {
         "value": "6"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "927717",
+    "columns": [
+      {
+        "columnTemplate": "PEREZ, EDWIN                                                                                            ",
+        "value": "PEREZ, EDWIN                                                                                            "
+      },
+      {
+        "value": "SGT DET SQUAD"
+      },
+      {
+        "value": "4039    "
+      },
+      {
+        "value": "10/10/2000 12:00:00 AM"
+      },
+      {
+        "value": "684"
+      },
+      {
+        "value": "7"
       }
     ]
   },
@@ -592226,31 +592226,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "971606",
-    "columns": [
-      {
-        "columnTemplate": "PEREZ, GABRIEL A                                                                                        ",
-        "value": "PEREZ, GABRIEL A                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "20117   "
-      },
-      {
-        "value": "4/28/2021 12:00:00 AM"
-      },
-      {
-        "value": "38"
-      },
-      {
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "972863",
     "columns": [
       {
@@ -592268,6 +592243,31 @@
       },
       {
         "value": "86"
+      },
+      {
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "971606",
+    "columns": [
+      {
+        "columnTemplate": "PEREZ, GABRIEL A                                                                                        ",
+        "value": "PEREZ, GABRIEL A                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "20117   "
+      },
+      {
+        "value": "4/28/2021 12:00:00 AM"
+      },
+      {
+        "value": "38"
       },
       {
         "value": "3"
@@ -593026,31 +593026,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "961091",
-    "columns": [
-      {
-        "columnTemplate": "PEREZ, JONATHAN M                                                                                       ",
-        "value": "PEREZ, JONATHAN M                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "810     "
-      },
-      {
-        "value": "1/6/2016 12:00:00 AM"
-      },
-      {
-        "value": "16"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "951041",
     "columns": [
       {
@@ -593071,6 +593046,31 @@
       },
       {
         "value": "19"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "961091",
+    "columns": [
+      {
+        "columnTemplate": "PEREZ, JONATHAN M                                                                                       ",
+        "value": "PEREZ, JONATHAN M                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "810     "
+      },
+      {
+        "value": "1/6/2016 12:00:00 AM"
+      },
+      {
+        "value": "16"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -620276,31 +620276,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "948407",
-    "columns": [
-      {
-        "columnTemplate": "QUEZADA, CHRISTIAN A                                                                                    ",
-        "value": "QUEZADA, CHRISTIAN A                                                                                    "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "26968   "
-      },
-      {
-        "value": "7/14/2009 12:00:00 AM"
-      },
-      {
-        "value": "101"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "946137",
     "columns": [
       {
@@ -620321,6 +620296,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "948407",
+    "columns": [
+      {
+        "columnTemplate": "QUEZADA, CHRISTIAN A                                                                                    ",
+        "value": "QUEZADA, CHRISTIAN A                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "26968   "
+      },
+      {
+        "value": "7/14/2009 12:00:00 AM"
+      },
+      {
+        "value": "101"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -625776,31 +625776,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "956186",
-    "columns": [
-      {
-        "columnTemplate": "RAHMAN, MD M                                                                                            ",
-        "value": "RAHMAN, MD M                                                                                            "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "8321    "
-      },
-      {
-        "value": "1/8/2014 12:00:00 AM"
-      },
-      {
-        "value": "86"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "975751",
     "columns": [
       {
@@ -625876,6 +625851,56 @@
   },
   {
     "filterKey": "@TAXID",
+    "filterRowValue": "956186",
+    "columns": [
+      {
+        "columnTemplate": "RAHMAN, MD M                                                                                            ",
+        "value": "RAHMAN, MD M                                                                                            "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "8321    "
+      },
+      {
+        "value": "1/8/2014 12:00:00 AM"
+      },
+      {
+        "value": "86"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "972416",
+    "columns": [
+      {
+        "columnTemplate": "RAHMAN, MD M                                                                                            ",
+        "value": "RAHMAN, MD M                                                                                            "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "26328   "
+      },
+      {
+        "value": "7/13/2021 12:00:00 AM"
+      },
+      {
+        "value": "33"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
     "filterRowValue": "970793",
     "columns": [
       {
@@ -625918,31 +625943,6 @@
       },
       {
         "value": "29"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "972416",
-    "columns": [
-      {
-        "columnTemplate": "RAHMAN, MD M                                                                                            ",
-        "value": "RAHMAN, MD M                                                                                            "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "26328   "
-      },
-      {
-        "value": "7/13/2021 12:00:00 AM"
-      },
-      {
-        "value": "33"
       },
       {
         "value": "0"
@@ -626226,31 +626226,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "984796",
-    "columns": [
-      {
-        "columnTemplate": "RAHMAN, MOHAMMAD S                                                                                      ",
-        "value": "RAHMAN, MOHAMMAD S                                                                                      "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "12320   "
-      },
-      {
-        "value": "12/17/2025 12:00:00 AM"
-      },
-      {
-        "value": "3"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "976347",
     "columns": [
       {
@@ -626268,6 +626243,31 @@
       },
       {
         "value": "120"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "984796",
+    "columns": [
+      {
+        "columnTemplate": "RAHMAN, MOHAMMAD S                                                                                      ",
+        "value": "RAHMAN, MOHAMMAD S                                                                                      "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "12320   "
+      },
+      {
+        "value": "12/17/2025 12:00:00 AM"
+      },
+      {
+        "value": "3"
       },
       {
         "value": "0"
@@ -631826,31 +631826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "944155",
-    "columns": [
-      {
-        "columnTemplate": "RAMOS, LEONEL                                                                                           ",
-        "value": "RAMOS, LEONEL                                                                                           "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "1/23/2007 12:00:00 AM"
-      },
-      {
-        "value": "127"
-      },
-      {
-        "value": "9"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "986828",
     "columns": [
       {
@@ -631871,6 +631846,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "944155",
+    "columns": [
+      {
+        "columnTemplate": "RAMOS, LEONEL                                                                                           ",
+        "value": "RAMOS, LEONEL                                                                                           "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "1/23/2007 12:00:00 AM"
+      },
+      {
+        "value": "127"
+      },
+      {
+        "value": "9"
       }
     ]
   },
@@ -644376,31 +644376,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "965838",
-    "columns": [
-      {
-        "columnTemplate": "REYNOSO, JOSE                                                                                           ",
-        "value": "REYNOSO, JOSE                                                                                           "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "1417    "
-      },
-      {
-        "value": "4/25/2018 12:00:00 AM"
-      },
-      {
-        "value": "25"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "978160",
     "columns": [
       {
@@ -644418,6 +644393,31 @@
       },
       {
         "value": "86"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "965838",
+    "columns": [
+      {
+        "columnTemplate": "REYNOSO, JOSE                                                                                           ",
+        "value": "REYNOSO, JOSE                                                                                           "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "1417    "
+      },
+      {
+        "value": "4/25/2018 12:00:00 AM"
+      },
+      {
+        "value": "25"
       },
       {
         "value": "0"
@@ -650051,31 +650051,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "919624",
-    "columns": [
-      {
-        "columnTemplate": "RIVERA, ANTHONY                                                                                         ",
-        "value": "RIVERA, ANTHONY                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "25256   "
-      },
-      {
-        "value": "4/15/1997 12:00:00 AM"
-      },
-      {
-        "value": "15"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "968094",
     "columns": [
       {
@@ -650096,6 +650071,31 @@
       },
       {
         "value": "3"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "919624",
+    "columns": [
+      {
+        "columnTemplate": "RIVERA, ANTHONY                                                                                         ",
+        "value": "RIVERA, ANTHONY                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "25256   "
+      },
+      {
+        "value": "4/15/1997 12:00:00 AM"
+      },
+      {
+        "value": "15"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -651476,31 +651476,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "956205",
-    "columns": [
-      {
-        "columnTemplate": "RIVERA, ISMAEL                                                                                          ",
-        "value": "RIVERA, ISMAEL                                                                                          "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "5629    "
-      },
-      {
-        "value": "1/8/2014 12:00:00 AM"
-      },
-      {
-        "value": "42"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "951149",
     "columns": [
       {
@@ -651521,6 +651496,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "956205",
+    "columns": [
+      {
+        "columnTemplate": "RIVERA, ISMAEL                                                                                          ",
+        "value": "RIVERA, ISMAEL                                                                                          "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "5629    "
+      },
+      {
+        "value": "1/8/2014 12:00:00 AM"
+      },
+      {
+        "value": "42"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -652176,31 +652176,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "943738",
-    "columns": [
-      {
-        "columnTemplate": "RIVERA, JOSEPH                                                                                          ",
-        "value": "RIVERA, JOSEPH                                                                                          "
-      },
-      {
-        "value": "SGT DET SQUAD"
-      },
-      {
-        "value": "4639    "
-      },
-      {
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "value": "149"
-      },
-      {
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "951150",
     "columns": [
       {
@@ -652221,6 +652196,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "943738",
+    "columns": [
+      {
+        "columnTemplate": "RIVERA, JOSEPH                                                                                          ",
+        "value": "RIVERA, JOSEPH                                                                                          "
+      },
+      {
+        "value": "SGT DET SQUAD"
+      },
+      {
+        "value": "4639    "
+      },
+      {
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "value": "149"
+      },
+      {
+        "value": "6"
       }
     ]
   },
@@ -653001,31 +653001,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "941752",
-    "columns": [
-      {
-        "columnTemplate": "RIVERA, MIGUEL A                                                                                        ",
-        "value": "RIVERA, MIGUEL A                                                                                        "
-      },
-      {
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "value": "3816    "
-      },
-      {
-        "value": "7/20/2006 12:00:00 AM"
-      },
-      {
-        "value": "182"
-      },
-      {
-        "value": "5"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "986850",
     "columns": [
       {
@@ -653046,6 +653021,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "941752",
+    "columns": [
+      {
+        "columnTemplate": "RIVERA, MIGUEL A                                                                                        ",
+        "value": "RIVERA, MIGUEL A                                                                                        "
+      },
+      {
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "value": "3816    "
+      },
+      {
+        "value": "7/20/2006 12:00:00 AM"
+      },
+      {
+        "value": "182"
+      },
+      {
+        "value": "5"
       }
     ]
   },
@@ -659801,31 +659801,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "954280",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, DANIEL                                                                                       ",
-        "value": "RODRIGUEZ, DANIEL                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "13736   "
-      },
-      {
-        "value": "1/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "65"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "978984",
     "columns": [
       {
@@ -659843,6 +659818,31 @@
       },
       {
         "value": "33"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "954280",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, DANIEL                                                                                       ",
+        "value": "RODRIGUEZ, DANIEL                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "13736   "
+      },
+      {
+        "value": "1/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "65"
       },
       {
         "value": "0"
@@ -660726,31 +660726,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "954282",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, FERNANDO                                                                                     ",
-        "value": "RODRIGUEZ, FERNANDO                                                                                     "
-      },
-      {
-        "value": "DETECTIVE 2ND GRADE"
-      },
-      {
-        "value": "6928    "
-      },
-      {
-        "value": "1/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "407"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "940653",
     "columns": [
       {
@@ -660771,6 +660746,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "954282",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, FERNANDO                                                                                     ",
+        "value": "RODRIGUEZ, FERNANDO                                                                                     "
+      },
+      {
+        "value": "DETECTIVE 2ND GRADE"
+      },
+      {
+        "value": "6928    "
+      },
+      {
+        "value": "1/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "407"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -660826,31 +660826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "970818",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, FRANCISCO                                                                                    ",
-        "value": "RODRIGUEZ, FRANCISCO                                                                                    "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "6131    "
-      },
-      {
-        "value": "12/29/2020 12:00:00 AM"
-      },
-      {
-        "value": "187"
-      },
-      {
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "986025",
     "columns": [
       {
@@ -660871,6 +660846,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "970818",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, FRANCISCO                                                                                    ",
+        "value": "RODRIGUEZ, FRANCISCO                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "6131    "
+      },
+      {
+        "value": "12/29/2020 12:00:00 AM"
+      },
+      {
+        "value": "187"
+      },
+      {
+        "value": "3"
       }
     ]
   },
@@ -661701,31 +661701,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "941247",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, JESSICA                                                                                      ",
-        "value": "RODRIGUEZ, JESSICA                                                                                      "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "4100    "
-      },
-      {
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "value": "411"
-      },
-      {
-        "value": "4"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "949908",
     "columns": [
       {
@@ -661746,6 +661721,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "941247",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, JESSICA                                                                                      ",
+        "value": "RODRIGUEZ, JESSICA                                                                                      "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "4100    "
+      },
+      {
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "value": "411"
+      },
+      {
+        "value": "4"
       }
     ]
   },
@@ -662076,7 +662076,7 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "939341",
+    "filterRowValue": "978174",
     "columns": [
       {
         "columnTemplate": "RODRIGUEZ, JOSE A                                                                                       ",
@@ -662086,38 +662086,13 @@
         "value": "POLICE OFFICER"
       },
       {
-        "value": "27982   "
+        "value": "230     "
       },
       {
-        "value": "7/11/2005 12:00:00 AM"
+        "value": "10/25/2023 12:00:00 AM"
       },
       {
-        "value": "101"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "983743",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, JOSE A                                                                                       ",
-        "value": "RODRIGUEZ, JOSE A                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "19457   "
-      },
-      {
-        "value": "8/20/2025 12:00:00 AM"
-      },
-      {
-        "value": "3"
+        "value": "54"
       },
       {
         "value": "0"
@@ -662176,7 +662151,7 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "978174",
+    "filterRowValue": "939341",
     "columns": [
       {
         "columnTemplate": "RODRIGUEZ, JOSE A                                                                                       ",
@@ -662186,13 +662161,38 @@
         "value": "POLICE OFFICER"
       },
       {
-        "value": "230     "
+        "value": "27982   "
       },
       {
-        "value": "10/25/2023 12:00:00 AM"
+        "value": "7/11/2005 12:00:00 AM"
       },
       {
-        "value": "54"
+        "value": "101"
+      },
+      {
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "983743",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, JOSE A                                                                                       ",
+        "value": "RODRIGUEZ, JOSE A                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "19457   "
+      },
+      {
+        "value": "8/20/2025 12:00:00 AM"
+      },
+      {
+        "value": "3"
       },
       {
         "value": "0"
@@ -662226,31 +662226,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "956212",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, JOSE L                                                                                       ",
-        "value": "RODRIGUEZ, JOSE L                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "11513   "
-      },
-      {
-        "value": "1/8/2014 12:00:00 AM"
-      },
-      {
-        "value": "46"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "958017",
     "columns": [
       {
@@ -662271,6 +662246,31 @@
       },
       {
         "value": "11"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "956212",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, JOSE L                                                                                       ",
+        "value": "RODRIGUEZ, JOSE L                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "11513   "
+      },
+      {
+        "value": "1/8/2014 12:00:00 AM"
+      },
+      {
+        "value": "46"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -663076,31 +663076,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "956213",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, LUIS A                                                                                       ",
-        "value": "RODRIGUEZ, LUIS A                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "11804   "
-      },
-      {
-        "value": "1/8/2014 12:00:00 AM"
-      },
-      {
-        "value": "63"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "947421",
     "columns": [
       {
@@ -663121,6 +663096,31 @@
       },
       {
         "value": "5"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "956213",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, LUIS A                                                                                       ",
+        "value": "RODRIGUEZ, LUIS A                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "11804   "
+      },
+      {
+        "value": "1/8/2014 12:00:00 AM"
+      },
+      {
+        "value": "63"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -663701,31 +663701,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "974483",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, MICHAEL A                                                                                    ",
-        "value": "RODRIGUEZ, MICHAEL A                                                                                    "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "10697   "
-      },
-      {
-        "value": "4/13/2022 12:00:00 AM"
-      },
-      {
-        "value": "171"
-      },
-      {
-        "value": "10"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "952181",
     "columns": [
       {
@@ -663746,6 +663721,31 @@
       },
       {
         "value": "34"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "974483",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, MICHAEL A                                                                                    ",
+        "value": "RODRIGUEZ, MICHAEL A                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "10697   "
+      },
+      {
+        "value": "4/13/2022 12:00:00 AM"
+      },
+      {
+        "value": "171"
+      },
+      {
+        "value": "10"
       }
     ]
   },
@@ -664476,31 +664476,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "980163",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, RAYMOND J                                                                                    ",
-        "value": "RODRIGUEZ, RAYMOND J                                                                                    "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "11874   "
-      },
-      {
-        "value": "7/3/2024 12:00:00 AM"
-      },
-      {
-        "value": "20"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "984855",
     "columns": [
       {
@@ -664518,6 +664493,31 @@
       },
       {
         "value": "5"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "980163",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, RAYMOND J                                                                                    ",
+        "value": "RODRIGUEZ, RAYMOND J                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "11874   "
+      },
+      {
+        "value": "7/3/2024 12:00:00 AM"
+      },
+      {
+        "value": "20"
       },
       {
         "value": "0"
@@ -665101,6 +665101,31 @@
   },
   {
     "filterKey": "@TAXID",
+    "filterRowValue": "965476",
+    "columns": [
+      {
+        "columnTemplate": "RODRIGUEZ, STEVEN                                                                                       ",
+        "value": "RODRIGUEZ, STEVEN                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "26663   "
+      },
+      {
+        "value": "1/10/2018 12:00:00 AM"
+      },
+      {
+        "value": "169"
+      },
+      {
+        "value": "11"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
     "filterRowValue": "933279",
     "columns": [
       {
@@ -665146,31 +665171,6 @@
       },
       {
         "value": "16"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "965476",
-    "columns": [
-      {
-        "columnTemplate": "RODRIGUEZ, STEVEN                                                                                       ",
-        "value": "RODRIGUEZ, STEVEN                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "26663   "
-      },
-      {
-        "value": "1/10/2018 12:00:00 AM"
-      },
-      {
-        "value": "169"
-      },
-      {
-        "value": "11"
       }
     ]
   },
@@ -668901,31 +668901,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "949566",
-    "columns": [
-      {
-        "columnTemplate": "ROLFFOT, MAX G                                                                                          ",
-        "value": "ROLFFOT, MAX G                                                                                          "
-      },
-      {
-        "value": "DETECTIVE 2ND GRADE"
-      },
-      {
-        "value": "3178    "
-      },
-      {
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "value": "458"
-      },
-      {
-        "value": "25"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "986875",
     "columns": [
       {
@@ -668946,6 +668921,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "949566",
+    "columns": [
+      {
+        "columnTemplate": "ROLFFOT, MAX G                                                                                          ",
+        "value": "ROLFFOT, MAX G                                                                                          "
+      },
+      {
+        "value": "DETECTIVE 2ND GRADE"
+      },
+      {
+        "value": "3178    "
+      },
+      {
+        "value": "7/6/2010 12:00:00 AM"
+      },
+      {
+        "value": "458"
+      },
+      {
+        "value": "25"
       }
     ]
   },
@@ -670776,31 +670776,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "957101",
-    "columns": [
-      {
-        "columnTemplate": "ROMERO, DANNY                                                                                           ",
-        "value": "ROMERO, DANNY                                                                                           "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "6431    "
-      },
-      {
-        "value": "7/9/2014 12:00:00 AM"
-      },
-      {
-        "value": "231"
-      },
-      {
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "979470",
     "columns": [
       {
@@ -670821,6 +670796,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "957101",
+    "columns": [
+      {
+        "columnTemplate": "ROMERO, DANNY                                                                                           ",
+        "value": "ROMERO, DANNY                                                                                           "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "6431    "
+      },
+      {
+        "value": "7/9/2014 12:00:00 AM"
+      },
+      {
+        "value": "231"
+      },
+      {
+        "value": "3"
       }
     ]
   },
@@ -679726,31 +679726,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "967314",
-    "columns": [
-      {
-        "columnTemplate": "RUIZ, JONATHAN                                                                                          ",
-        "value": "RUIZ, JONATHAN                                                                                          "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "29010   "
-      },
-      {
-        "value": "1/3/2019 12:00:00 AM"
-      },
-      {
-        "value": "28"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "963729",
     "columns": [
       {
@@ -679771,6 +679746,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "967314",
+    "columns": [
+      {
+        "columnTemplate": "RUIZ, JONATHAN                                                                                          ",
+        "value": "RUIZ, JONATHAN                                                                                          "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "29010   "
+      },
+      {
+        "value": "1/3/2019 12:00:00 AM"
+      },
+      {
+        "value": "28"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -682401,31 +682401,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "945303",
-    "columns": [
-      {
-        "columnTemplate": "RYAN, CHRISTOPHER P                                                                                     ",
-        "value": "RYAN, CHRISTOPHER P                                                                                     "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "20450   "
-      },
-      {
-        "value": "7/18/2007 12:00:00 AM"
-      },
-      {
-        "value": "170"
-      },
-      {
-        "value": "11"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "959176",
     "columns": [
       {
@@ -682446,6 +682421,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "945303",
+    "columns": [
+      {
+        "columnTemplate": "RYAN, CHRISTOPHER P                                                                                     ",
+        "value": "RYAN, CHRISTOPHER P                                                                                     "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "20450   "
+      },
+      {
+        "value": "7/18/2007 12:00:00 AM"
+      },
+      {
+        "value": "170"
+      },
+      {
+        "value": "11"
       }
     ]
   },
@@ -688601,31 +688601,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "981840",
-    "columns": [
-      {
-        "columnTemplate": "SALGUERO, OSCAR A                                                                                       ",
-        "value": "SALGUERO, OSCAR A                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "17103   "
-      },
-      {
-        "value": "1/29/2025 12:00:00 AM"
-      },
-      {
-        "value": "7"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "964751",
     "columns": [
       {
@@ -688646,6 +688621,31 @@
       },
       {
         "value": "46"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "981840",
+    "columns": [
+      {
+        "columnTemplate": "SALGUERO, OSCAR A                                                                                       ",
+        "value": "SALGUERO, OSCAR A                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "17103   "
+      },
+      {
+        "value": "1/29/2025 12:00:00 AM"
+      },
+      {
+        "value": "7"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -693276,31 +693276,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "954315",
-    "columns": [
-      {
-        "columnTemplate": "SANCHEZ, RONALD                                                                                         ",
-        "value": "SANCHEZ, RONALD                                                                                         "
-      },
-      {
-        "value": "LIEUTENANT"
-      },
-      {
-        "value": " "
-      },
-      {
-        "value": "1/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "197"
-      },
-      {
-        "value": "8"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "947454",
     "columns": [
       {
@@ -693321,6 +693296,31 @@
       },
       {
         "value": "33"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "954315",
+    "columns": [
+      {
+        "columnTemplate": "SANCHEZ, RONALD                                                                                         ",
+        "value": "SANCHEZ, RONALD                                                                                         "
+      },
+      {
+        "value": "LIEUTENANT"
+      },
+      {
+        "value": " "
+      },
+      {
+        "value": "1/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "197"
+      },
+      {
+        "value": "8"
       }
     ]
   },
@@ -696076,31 +696076,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "980181",
-    "columns": [
-      {
-        "columnTemplate": "SANTANA, ANTHONY                                                                                        ",
-        "value": "SANTANA, ANTHONY                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "19767   "
-      },
-      {
-        "value": "7/3/2024 12:00:00 AM"
-      },
-      {
-        "value": "34"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "977386",
     "columns": [
       {
@@ -696118,6 +696093,31 @@
       },
       {
         "value": "30"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "980181",
+    "columns": [
+      {
+        "columnTemplate": "SANTANA, ANTHONY                                                                                        ",
+        "value": "SANTANA, ANTHONY                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "19767   "
+      },
+      {
+        "value": "7/3/2024 12:00:00 AM"
+      },
+      {
+        "value": "34"
       },
       {
         "value": "0"
@@ -727326,81 +727326,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "968812",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, GURPREET                                                                                         ",
-        "value": "SINGH, GURPREET                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "31915   "
-      },
-      {
-        "value": "10/7/2019 12:00:00 AM"
-      },
-      {
-        "value": "23"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "962806",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, GURPREET                                                                                         ",
-        "value": "SINGH, GURPREET                                                                                         "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "420     "
-      },
-      {
-        "value": "10/11/2016 12:00:00 AM"
-      },
-      {
-        "value": "34"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "932217",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, GURPREET                                                                                         ",
-        "value": "SINGH, GURPREET                                                                                         "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "7079    "
-      },
-      {
-        "value": "7/1/2003 12:00:00 AM"
-      },
-      {
-        "value": "30"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "978226",
     "columns": [
       {
@@ -727443,6 +727368,31 @@
       },
       {
         "value": "44"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "932217",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, GURPREET                                                                                         ",
+        "value": "SINGH, GURPREET                                                                                         "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "7079    "
+      },
+      {
+        "value": "7/1/2003 12:00:00 AM"
+      },
+      {
+        "value": "30"
       },
       {
         "value": "0"
@@ -727496,6 +727446,56 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "968812",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, GURPREET                                                                                         ",
+        "value": "SINGH, GURPREET                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "31915   "
+      },
+      {
+        "value": "10/7/2019 12:00:00 AM"
+      },
+      {
+        "value": "23"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "962806",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, GURPREET                                                                                         ",
+        "value": "SINGH, GURPREET                                                                                         "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "420     "
+      },
+      {
+        "value": "10/11/2016 12:00:00 AM"
+      },
+      {
+        "value": "34"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -727576,31 +727576,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "984954",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, GURWINDER                                                                                        ",
-        "value": "SINGH, GURWINDER                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "5572    "
-      },
-      {
-        "value": "12/17/2025 12:00:00 AM"
-      },
-      {
-        "value": "4"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "968135",
     "columns": [
       {
@@ -727621,6 +727596,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "984954",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, GURWINDER                                                                                        ",
+        "value": "SINGH, GURWINDER                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "5572    "
+      },
+      {
+        "value": "12/17/2025 12:00:00 AM"
+      },
+      {
+        "value": "4"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -727751,31 +727751,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "966857",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, HARMANJOT                                                                                        ",
-        "value": "SINGH, HARMANJOT                                                                                        "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "2093    "
-      },
-      {
-        "value": "10/24/2018 12:00:00 AM"
-      },
-      {
-        "value": "145"
-      },
-      {
-        "value": "30"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "966343",
     "columns": [
       {
@@ -727801,26 +727776,26 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "958074",
+    "filterRowValue": "966857",
     "columns": [
       {
-        "columnTemplate": "SINGH, HARPREET                                                                                         ",
-        "value": "SINGH, HARPREET                                                                                         "
+        "columnTemplate": "SINGH, HARMANJOT                                                                                        ",
+        "value": "SINGH, HARMANJOT                                                                                        "
       },
       {
         "value": "SERGEANT"
       },
       {
-        "value": "1664    "
+        "value": "2093    "
       },
       {
-        "value": "1/7/2015 12:00:00 AM"
+        "value": "10/24/2018 12:00:00 AM"
+      },
+      {
+        "value": "145"
       },
       {
         "value": "30"
-      },
-      {
-        "value": "0"
       }
     ]
   },
@@ -727846,6 +727821,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "958074",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, HARPREET                                                                                         ",
+        "value": "SINGH, HARPREET                                                                                         "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "1664    "
+      },
+      {
+        "value": "1/7/2015 12:00:00 AM"
+      },
+      {
+        "value": "30"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -727976,31 +727976,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "963760",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, JAGDEEP                                                                                          ",
-        "value": "SINGH, JAGDEEP                                                                                          "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "5799    "
-      },
-      {
-        "value": "4/12/2017 12:00:00 AM"
-      },
-      {
-        "value": "22"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "965870",
     "columns": [
       {
@@ -728021,6 +727996,31 @@
       },
       {
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "963760",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, JAGDEEP                                                                                          ",
+        "value": "SINGH, JAGDEEP                                                                                          "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "5799    "
+      },
+      {
+        "value": "4/12/2017 12:00:00 AM"
+      },
+      {
+        "value": "22"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -728176,31 +728176,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "981881",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, JASPREET                                                                                         ",
-        "value": "SINGH, JASPREET                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "27163   "
-      },
-      {
-        "value": "1/29/2025 12:00:00 AM"
-      },
-      {
-        "value": "28"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "981882",
     "columns": [
       {
@@ -728218,6 +728193,31 @@
       },
       {
         "value": "30"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "981881",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, JASPREET                                                                                         ",
+        "value": "SINGH, JASPREET                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "27163   "
+      },
+      {
+        "value": "1/29/2025 12:00:00 AM"
+      },
+      {
+        "value": "28"
       },
       {
         "value": "0"
@@ -728501,56 +728501,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "959989",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, MANPREET                                                                                         ",
-        "value": "SINGH, MANPREET                                                                                         "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "2973    "
-      },
-      {
-        "value": "10/7/2015 12:00:00 AM"
-      },
-      {
-        "value": "281"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "filterRowValue": "972262",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, MANPREET                                                                                         ",
-        "value": "SINGH, MANPREET                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "23163   "
-      },
-      {
-        "value": "7/7/2021 12:00:00 AM"
-      },
-      {
-        "value": "101"
-      },
-      {
-        "value": "33"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "982672",
     "columns": [
       {
@@ -728576,6 +728526,31 @@
   },
   {
     "filterKey": "@TAXID",
+    "filterRowValue": "959989",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, MANPREET                                                                                         ",
+        "value": "SINGH, MANPREET                                                                                         "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "2973    "
+      },
+      {
+        "value": "10/7/2015 12:00:00 AM"
+      },
+      {
+        "value": "281"
+      },
+      {
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
     "filterRowValue": "974552",
     "columns": [
       {
@@ -728596,6 +728571,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "972262",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, MANPREET                                                                                         ",
+        "value": "SINGH, MANPREET                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "23163   "
+      },
+      {
+        "value": "7/7/2021 12:00:00 AM"
+      },
+      {
+        "value": "101"
+      },
+      {
+        "value": "33"
       }
     ]
   },
@@ -728826,31 +728826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "974553",
-    "columns": [
-      {
-        "columnTemplate": "SINGH, PALWINDER                                                                                        ",
-        "value": "SINGH, PALWINDER                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "11330   "
-      },
-      {
-        "value": "4/13/2022 12:00:00 AM"
-      },
-      {
-        "value": "60"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "977407",
     "columns": [
       {
@@ -728896,6 +728871,31 @@
       },
       {
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "974553",
+    "columns": [
+      {
+        "columnTemplate": "SINGH, PALWINDER                                                                                        ",
+        "value": "SINGH, PALWINDER                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "11330   "
+      },
+      {
+        "value": "4/13/2022 12:00:00 AM"
+      },
+      {
+        "value": "60"
+      },
+      {
+        "value": "0"
       }
     ]
   },
@@ -733376,31 +733376,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "955504",
-    "columns": [
-      {
-        "columnTemplate": "SMITH, DANIEL F                                                                                         ",
-        "value": "SMITH, DANIEL F                                                                                         "
-      },
-      {
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "value": "5634    "
-      },
-      {
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "201"
-      },
-      {
-        "value": "20"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "959994",
     "columns": [
       {
@@ -733421,6 +733396,31 @@
       },
       {
         "value": "12"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "955504",
+    "columns": [
+      {
+        "columnTemplate": "SMITH, DANIEL F                                                                                         ",
+        "value": "SMITH, DANIEL F                                                                                         "
+      },
+      {
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "value": "5634    "
+      },
+      {
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "201"
+      },
+      {
+        "value": "20"
       }
     ]
   },
@@ -735076,31 +735076,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "955513",
-    "columns": [
-      {
-        "columnTemplate": "SMITH, THOMAS J                                                                                         ",
-        "value": "SMITH, THOMAS J                                                                                         "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "10841   "
-      },
-      {
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "48"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "935767",
     "columns": [
       {
@@ -735118,6 +735093,31 @@
       },
       {
         "value": "106"
+      },
+      {
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "955513",
+    "columns": [
+      {
+        "columnTemplate": "SMITH, THOMAS J                                                                                         ",
+        "value": "SMITH, THOMAS J                                                                                         "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "10841   "
+      },
+      {
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "48"
       },
       {
         "value": "1"
@@ -735251,31 +735251,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "980911",
-    "columns": [
-      {
-        "columnTemplate": "SMITH, TYLER A                                                                                          ",
-        "value": "SMITH, TYLER A                                                                                          "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "29044   "
-      },
-      {
-        "value": "10/30/2024 12:00:00 AM"
-      },
-      {
-        "value": "6"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "986123",
     "columns": [
       {
@@ -735293,6 +735268,31 @@
       },
       {
         "value": "0"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "980911",
+    "columns": [
+      {
+        "columnTemplate": "SMITH, TYLER A                                                                                          ",
+        "value": "SMITH, TYLER A                                                                                          "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "29044   "
+      },
+      {
+        "value": "10/30/2024 12:00:00 AM"
+      },
+      {
+        "value": "6"
       },
       {
         "value": "0"
@@ -736651,31 +736651,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "966350",
-    "columns": [
-      {
-        "columnTemplate": "SOKOL, CHRISTOPHER R                                                                                    ",
-        "value": "SOKOL, CHRISTOPHER R                                                                                    "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "12873   "
-      },
-      {
-        "value": "7/2/2018 12:00:00 AM"
-      },
-      {
-        "value": "95"
-      },
-      {
-        "value": "4"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "975826",
     "columns": [
       {
@@ -736696,6 +736671,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "966350",
+    "columns": [
+      {
+        "columnTemplate": "SOKOL, CHRISTOPHER R                                                                                    ",
+        "value": "SOKOL, CHRISTOPHER R                                                                                    "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "12873   "
+      },
+      {
+        "value": "7/2/2018 12:00:00 AM"
+      },
+      {
+        "value": "95"
+      },
+      {
+        "value": "4"
       }
     ]
   },
@@ -750826,31 +750826,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "986149",
-    "columns": [
-      {
-        "columnTemplate": "SUAREZ, MATTHEW A                                                                                       ",
-        "value": "SUAREZ, MATTHEW A                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "10822   "
-      },
-      {
-        "value": "4/22/2026 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "973794",
     "columns": [
       {
@@ -750868,6 +750843,31 @@
       },
       {
         "value": "16"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "986149",
+    "columns": [
+      {
+        "columnTemplate": "SUAREZ, MATTHEW A                                                                                       ",
+        "value": "SUAREZ, MATTHEW A                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "10822   "
+      },
+      {
+        "value": "4/22/2026 12:00:00 AM"
+      },
+      {
+        "value": "0"
       },
       {
         "value": "0"
@@ -763551,31 +763551,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "943869",
-    "columns": [
-      {
-        "columnTemplate": "TEJADA, FRANCISCO A                                                                                     ",
-        "value": "TEJADA, FRANCISCO A                                                                                     "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "2216    "
-      },
-      {
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "value": "109"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "939562",
     "columns": [
       {
@@ -763596,6 +763571,31 @@
       },
       {
         "value": "7"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "943869",
+    "columns": [
+      {
+        "columnTemplate": "TEJADA, FRANCISCO A                                                                                     ",
+        "value": "TEJADA, FRANCISCO A                                                                                     "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "2216    "
+      },
+      {
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "value": "109"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -778326,31 +778326,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "969400",
-    "columns": [
-      {
-        "columnTemplate": "TOVARMINAYA, GIOVANIS A                                                                                 ",
-        "value": "TOVARMINAYA, GIOVANIS A                                                                                 "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "20081   "
-      },
-      {
-        "value": "1/6/2020 12:00:00 AM"
-      },
-      {
-        "value": "48"
-      },
-      {
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "975215",
     "columns": [
       {
@@ -778371,6 +778346,31 @@
       },
       {
         "value": "4"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "969400",
+    "columns": [
+      {
+        "columnTemplate": "TOVARMINAYA, GIOVANIS A                                                                                 ",
+        "value": "TOVARMINAYA, GIOVANIS A                                                                                 "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "20081   "
+      },
+      {
+        "value": "1/6/2020 12:00:00 AM"
+      },
+      {
+        "value": "48"
+      },
+      {
+        "value": "1"
       }
     ]
   },
@@ -794051,31 +794051,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "955620",
-    "columns": [
-      {
-        "columnTemplate": "VARGAS, ROBERT M                                                                                        ",
-        "value": "VARGAS, ROBERT M                                                                                        "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "27367   "
-      },
-      {
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "value": "60"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "963309",
     "columns": [
       {
@@ -794096,6 +794071,31 @@
       },
       {
         "value": "4"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "955620",
+    "columns": [
+      {
+        "columnTemplate": "VARGAS, ROBERT M                                                                                        ",
+        "value": "VARGAS, ROBERT M                                                                                        "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "27367   "
+      },
+      {
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "value": "60"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -804776,31 +804776,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "939655",
-    "columns": [
-      {
-        "columnTemplate": "VIERA, CHARLIE                                                                                          ",
-        "value": "VIERA, CHARLIE                                                                                          "
-      },
-      {
-        "value": "DETECTIVE 2ND GRADE"
-      },
-      {
-        "value": "618     "
-      },
-      {
-        "value": "7/11/2005 12:00:00 AM"
-      },
-      {
-        "value": "446"
-      },
-      {
-        "value": "24"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "987020",
     "columns": [
       {
@@ -804821,6 +804796,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "939655",
+    "columns": [
+      {
+        "columnTemplate": "VIERA, CHARLIE                                                                                          ",
+        "value": "VIERA, CHARLIE                                                                                          "
+      },
+      {
+        "value": "DETECTIVE 2ND GRADE"
+      },
+      {
+        "value": "618     "
+      },
+      {
+        "value": "7/11/2005 12:00:00 AM"
+      },
+      {
+        "value": "446"
+      },
+      {
+        "value": "24"
       }
     ]
   },
@@ -813501,31 +813501,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "951414",
-    "columns": [
-      {
-        "columnTemplate": "WALSH, JAMES A                                                                                          ",
-        "value": "WALSH, JAMES A                                                                                          "
-      },
-      {
-        "value": "SERGEANT"
-      },
-      {
-        "value": "4503    "
-      },
-      {
-        "value": "7/6/2011 12:00:00 AM"
-      },
-      {
-        "value": "92"
-      },
-      {
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "965701",
     "columns": [
       {
@@ -813546,6 +813521,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "951414",
+    "columns": [
+      {
+        "columnTemplate": "WALSH, JAMES A                                                                                          ",
+        "value": "WALSH, JAMES A                                                                                          "
+      },
+      {
+        "value": "SERGEANT"
+      },
+      {
+        "value": "4503    "
+      },
+      {
+        "value": "7/6/2011 12:00:00 AM"
+      },
+      {
+        "value": "92"
+      },
+      {
+        "value": "2"
       }
     ]
   },
@@ -824626,31 +824626,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "953571",
-    "columns": [
-      {
-        "columnTemplate": "WILLIAMS, KEVIN A                                                                                       ",
-        "value": "WILLIAMS, KEVIN A                                                                                       "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "24557   "
-      },
-      {
-        "value": "7/11/2012 12:00:00 AM"
-      },
-      {
-        "value": "241"
-      },
-      {
-        "value": "4"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "967724",
     "columns": [
       {
@@ -824671,6 +824646,31 @@
       },
       {
         "value": "6"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "953571",
+    "columns": [
+      {
+        "columnTemplate": "WILLIAMS, KEVIN A                                                                                       ",
+        "value": "WILLIAMS, KEVIN A                                                                                       "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "24557   "
+      },
+      {
+        "value": "7/11/2012 12:00:00 AM"
+      },
+      {
+        "value": "241"
+      },
+      {
+        "value": "4"
       }
     ]
   },
@@ -832576,31 +832576,6 @@
   },
   {
     "filterKey": "@TAXID",
-    "filterRowValue": "974659",
-    "columns": [
-      {
-        "columnTemplate": "WU, JASON                                                                                               ",
-        "value": "WU, JASON                                                                                               "
-      },
-      {
-        "value": "POLICE OFFICER"
-      },
-      {
-        "value": "14380   "
-      },
-      {
-        "value": "4/13/2022 12:00:00 AM"
-      },
-      {
-        "value": "350"
-      },
-      {
-        "value": "4"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
     "filterRowValue": "978837",
     "columns": [
       {
@@ -832621,6 +832596,31 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "filterRowValue": "974659",
+    "columns": [
+      {
+        "columnTemplate": "WU, JASON                                                                                               ",
+        "value": "WU, JASON                                                                                               "
+      },
+      {
+        "value": "POLICE OFFICER"
+      },
+      {
+        "value": "14380   "
+      },
+      {
+        "value": "4/13/2022 12:00:00 AM"
+      },
+      {
+        "value": "350"
+      },
+      {
+        "value": "4"
       }
     ]
   },
